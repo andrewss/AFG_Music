@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"impo",
+				"import_top_ul"
+			],
+			[
+				"se",
+				"setCount"
+			],
+			[
+				"email",
+				"emailSet"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"gam",
+				"gamesArray"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"da",
+				"dataArray"
+			],
+			[
+				"tab",
+				"tabNumber"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hex",
+				"hexInRow"
+			],
+			[
+				"chel",
+				"chelseaDataSource"
+			],
+			[
+				"che",
+				"chelseaDataSource"
+			],
+			[
+				"response",
+				"responseOne"
+			],
+			[
+				"E_USER_",
+				"E_USER_ERROR"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"con",
+				"containData"
+			],
+			[
+				"arra",
+				"arrayOfLinks"
+			],
+			[
+				"inpu",
+				"inputExploded"
+			],
+			[
+				"de",
+				"delimiters"
+			],
+			[
+				"in",
+				"inputString"
+			],
+			[
+				"inp",
+				"inputExploded"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"test",
+				"testArray"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"csv",
+				"csvData"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"file",
+				"fileNumber"
+			],
+			[
+				"db",
+				"db_password"
+			],
+			[
+				"data",
+				"dataAsArray"
+			],
+			[
+				"tes",
+				"testZipsFull"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fputs",
+				"fputcsv"
+			],
+			[
+				"db_",
+				"db_username"
+			],
+			[
+				"conta",
+				"contact_last_name"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"batch",
+				"batchID"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"Package Control: Add Repository",
+			"Package Control: Install Package",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/AAOS_Interactive/patient_outreach.php",
+		"/C/wamp/www/AAOS_Interactive/technique.php",
+		"/C/wamp/www/AAOS_Interactive/clinical_literature.php",
+		"/C/wamp/www/AAOS_Interactive/surgeon_profiles.php",
+		"/C/wamp/www/AAOS_Interactive/profile.php",
+		"/C/wamp/www/AAOS_Interactive/css/style.css",
+		"/C/wamp/www/AAOS_Interactive/patient_education.php",
+		"/C/wamp/www/AAOS_Interactive/patient_testimonial.php",
+		"/C/wamp/www/AAOS_Interactive/surgical_footage.php",
+		"/C/wamp/www/AAOS_Interactive/index.php",
+		"/C/wamp/www/AAOS_Interactive/index-old.php",
+		"/C/wamp/www/AAOS_Interactive/clinical_outcomes.php",
+		"/C/wamp/www/AAOS_Interactive/css/style-old.css",
+		"/C/wamp/www/AAOS_Interactive/clinical_outcomes-old.php",
+		"/C/wamp/www/AAOS_Interactive/css/reset.css",
+		"/C/wamp/www/AFG-Music/index.php",
+		"/C/wamp/www/AFG-Music/css/style.css",
+		"/C/wamp/www/AFG-Music/css/reset.css",
+		"/C/wamp/www/GOAP/index.php",
+		"/C/wamp/www/test_boostrap/event_app.php",
+		"/C/wamp/www/test_boostrap/grid.php",
+		"/C/Users/NBCC7/Desktop/austin/austin/index.php",
+		"/C/wamp/www/MDFO_new/apps/contacts/import_contact_step_2.php",
+		"/C/wamp/www/MDFO_new/apps/account/settings.php",
+		"/C/wamp/www/MDFO_new/includes/config.php",
+		"/C/wamp/www/MDFO_new/css/metro_adjusted.css",
+		"/C/wamp/www/MDFO_new/includes/header.php",
+		"/C/wamp/www/MDFO_new/apps/contacts/import_contact.php",
+		"/C/wamp/www/Alpha - Events Admin/css/style.css",
+		"/C/wamp/www/Alpha - Events Admin/test/grid.php",
+		"/C/wamp/www/Alpha - Events Admin/index.php",
+		"/C/wamp/www/Alpha - Events Admin/test/test.css",
+		"/C/Users/NBCC7/Desktop/slider/index.php",
+		"/C/wamp/www/Alpha - Events Admin/css/reset.css",
+		"/C/wamp/www/andrew_personal/goap/css/style.css",
+		"/C/wamp/www/andrew_personal/goap/index.php",
+		"/C/wamp/www/andrew_personal/index.php",
+		"/C/Users/NBCC7/Desktop/Current Project/VIP Register/css/style.css",
+		"/C/Users/NBCC7/Desktop/Current Project/VIP Register/thankyou.php",
+		"/C/Users/NBCC7/Desktop/Current Project/VIP Register/index.php",
+		"/C/Users/NBCC7/Documents/Alpha - SykEvents/choose_event.php",
+		"/C/Users/NBCC7/Desktop/Current Project/VIP Register/style.css",
+		"/C/Users/NBCC7/Desktop/slider/slider.css",
+		"/C/Users/NBCC7/Desktop/slider/reset.css",
+		"/C/Users/NBCC7/Desktop/webservice.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/to_dos.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/LINX_MDFO_10_DEC_2013/html/list_files.html",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/reports_big_list.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/reports.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/reports_details1.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/reports_small_list.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/Linxlead_new(2)/Linxlead_new/account_billing_invoice.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/Linxlead_new(2)/Linxlead_new/list_calender.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/Auto_R.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/Auto_R_details.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/Auto_R_new.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/email_history.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/email_details.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/email_tempalte.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/LINX_MDFO_10_DEC_2013/html/files_preview.html",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/Linxlead_new(2)/Linxlead_new/account_billing_add.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/campaigns_v1.php",
+		"/C/wamp/www/fastfood/index.php",
+		"/C/Users/NBCC7/Desktop/Linx_for_life/find_doctor_seminar.html",
+		"/C/Users/NBCC7/Desktop/teechr_create_course_step_1.html",
+		"/C/Users/NBCC7/Desktop/teechr_create_course_step_2.html",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/LINX_MDFO_10_DEC_2013/html/lists_new_csv_name.html",
+		"/C/Users/NBCC7/Desktop/Linx_for_life/find_doctor_seminarlink.html",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/mdfo-html/dashboard.php",
+		"/C/Users/NBCC7/Desktop/Alpha - MDFO Half Assed and Half Done/includes/header_login.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/Linxlead_new/new_account.php",
+		"/C/Users/NBCC7/Desktop/Alpha - MDFO Half Assed and Half Done/login.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/Linxlead_new(2)/Linxlead_new/includes/header_login.php",
+		"/C/Users/NBCC7/AppData/Roaming/Microsoft/Signatures/sig.htm",
+		"/C/Users/NBCC7/Desktop/sig.html",
+		"/C/Users/NBCC7/Documents/Beta- SykApps/contacts/css/style.css",
+		"/C/Users/NBCC7/Desktop/Learn and Links/syklinks.php",
+		"/C/Program Files (x86)/Telerik/Kendo UI DataViz Q2 2013/examples/index.html",
+		"/C/Users/NBCC7/Desktop/ppttest.php",
+		"/C/Users/NBCC7/Desktop/testimage.php",
+		"/C/Users/NBCC7/Desktop/Current Project/New MDFO/India HTML/Linxlead_new/account_user_detail.php",
+		"/C/Users/NBCC7/Desktop/Projects/Alpha- Sykleads/sftp-config.json",
+		"/C/Users/NBCC7/Documents/Alpha- Lynx For Life/gerd_awareness_week.php",
+		"/C/Users/NBCC7/Documents/Alpha - Stryker Leads App/contact_app/sales_support_contacts.php",
+		"/C/Users/NBCC7/Documents/Alpha - Stryker Leads App/contact_app/sales_support_regions.php",
+		"/C/Users/NBCC7/Downloads/LINX_Thank_You_Text/Thank_You_Style_1.html",
+		"/C/Users/NBCC7/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/alpha-sykleads",
+		"/C/Users/NBCC7/Desktop/LINX_SOCIETY_HTML/html/index.html",
+		"/C/Users/NBCC7/Desktop/Current Project/Stryker Leads/LeasArray.txt",
+		"/C/Users/NBCC7/AppData/Local/Temp/Temp1_LINX_Seminar_Leftovers.zip/Seminar_Style_7.html",
+		"/C/Users/NBCC7/Downloads/6271487.php",
+		"/C/Users/NBCC7/Desktop/bootstrap/css/custom.css",
+		"/C/Users/NBCC7/Desktop/bootstrap/02_02.html",
+		"/C/Users/NBCC7/Desktop/bootstrap/grid.html",
+		"/C/Users/NBCC7/Desktop/bootstrap/index.html",
+		"/C/Users/NBCC7/Desktop/bootstrap/js/respond.js",
+		"/C/Users/NBCC7/Desktop/LINX.GERD.Awareness.Week.Email.20130125.1/v2_Seminar/LINX.GERD.Awareness.Week.Email-v2_Seminar.html",
+		"/C/Users/NBCC7/Desktop/LINX.GERD.Awareness.Week.Email.20130125.1/v2_SeminarListing/LINX.GERD.Awareness.Week.Email-v2_SeminarListing.html",
+		"/C/Users/NBCC7/Desktop/LINX.GERD.Awareness.Week.Email.20130125.1/v1_nonSeminar/LINX.GERD.Awareness.Week.Email-v1_nonSeminar-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/i4a/Linx-Customizable-Email---Concept-I1a.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B3/Linx-Customizable-Email---Concept-B3-backup.html",
+		"/C/wamp/www/kendoTest/kendoDataViz.php",
+		"/C/Users/NBCC7/Desktop/SSL_SQL_statement.txt",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/E3/Linx-Customizable-Email---Concept-E3.html",
+		"/C/wamp/www/kendoTest/css/styles.css",
+		"/C/Users/NBCC7/AppData/Local/Temp/Temp1_LINX_LIFE_3PAGES.ZIP/LINX_LIFE_3PAGES/gerd_quiz.html",
+		"/C/Users/NBCC7/Downloads/LINX_LIFE_3PAGES/LINX_LIFE_3PAGES/gerd_quiz.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/i4/Linx-Customizable-Email---Concept-I4.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B4/Linx-Customizable-Email---Concept-B4.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/i4/Linx-Customizable-Email---Concept-I4-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/F3(2)/Linx-Customizable-Email---Concept-F3(2)-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/F2/Linx-Customizable-Email---Concept-F2-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/F1/Linx-Customizable-Email---Concept-F1-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B2/Linx-Customizable-Email---Concept-B2.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/E4/Linx-Customizable-Email---Concept-E4-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/E3/Linx-Customizable-Email---Concept-E3-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/D2/Linx-Customizable-Email---Concept-D2-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B4/Linx-Customizable-Email---Concept-B4-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B2/Linx-Customizable-Email---Concept-B2-backup.html",
+		"/C/wamp/www/hexagon test/hex.html",
+		"/C/wamp/www/hexagon test/hex.css",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B1/Linx-Customizable-Email---Concept-B1a-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/C - Thank You/Linx-Customizable-Email---Concept-C-thank-you-backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/C/Linx-Customizable-Email---Concept-C-Backup.html",
+		"/C/Users/NBCC7/Desktop/LINX.Email.v1.HTML-20131015.1 - Copy/LINX.Email.v1.HTML-20131015.1 - Copy/B1/Linx-Customizable-Email---Concept-B1a-COMPLETED.html",
+		"/C/wamp/www/Zoomus-hq_updated/apps/zoomus_crm/merchants/index.php",
+		"/C/wamp/www/kendoTest/kendoTutorial.php",
+		"/C/wamp/www/SCSTest/transid.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/* http://meyerweb.com/eric/tools/css/reset/ \n   v2.0 | 20110126\n   License: none (public domain)\n*/\n\nhtml, body, div, span, applet, object, iframe,\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\na, abbr, acronym, address, big, cite, code,\ndel, dfn, em, img, ins, kbd, q, s, samp,\nsmall, strike, strong, sub, sup, tt, var,\nb, u, i, center,\ndl, dt, dd, ol, ul, li,\nfieldset, form, label, legend,\ntable, caption, tbody, tfoot, thead, tr, th, td,\narticle, aside, canvas, details, embed, \nfigure, figcaption, footer, header, hgroup, \nmenu, nav, output, ruby, section, summary,\ntime, mark, audio, video {\n	margin: 0;\n	padding: 0;\n	border: 0;\n	font-size: 100%;\n	font: inherit;\n	vertical-align: baseline;\n}\n/* HTML5 display-role reset for older browsers */\narticle, aside, details, figcaption, figure, \nfooter, header, hgroup, menu, nav, section {\n	display: block;\n}\nbody {\n	line-height: 1;\n}\nol, ul {\n	list-style: none;\n}\nblockquote, q {\n	quotes: none;\n}\nblockquote:before, blockquote:after,\nq:before, q:after {\n	content: '';\n	content: none;\n}\ntable {\n	border-collapse: collapse;\n	border-spacing: 0;\n}",
+			");\n",
+			"<label><input type=\"checkbox\">",
+			";\n",
+			"vip_recognition",
+			"id",
+			"seminar_event Object",
+			"51",
+			";\n",
+			"MktCategory1Name",
+			"mktcateMktCategory1Name",
+			"compliance",
+			"\"\n",
+			"42094",
+			"lead_id",
+			"42092",
+			"input",
+			"id",
+			"lead_id",
+			"html",
+			"3d6b9f",
+			"submit",
+			"filter",
+			".k-grid-filter",
+			"filter",
+			"pos",
+			"number",
+			"name",
+			"goals",
+			"req",
+			"test",
+			"metro",
+			"Air",
+			"air"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<input type=\"checkbox\"><label>",
+			"----- seminar_event Object",
+			"Pos",
+			"Number",
+			"Name",
+			"position"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"project": "afg.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
