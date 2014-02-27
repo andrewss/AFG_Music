@@ -1,0 +1,90 @@
+/*
+Red - #be4156
+
+*/
+
+/* Generic CSS */
+header{
+	background-color: #be4156;
+	width: 100%;
+	min-height: 100px;
+}
+nav{
+	width: 100%;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+}
+.container{
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+/* Index Page CSS */
+header h1{
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: 28px;
+	font-weight: 600;
+}
+header h2{
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	text-align: center;
+}
+
+nav ul.nav{
+	margin: 0 auto;
+	display: inline-block;
+}
+	nav ul.nav>li{
+		display: inline-block;
+		padding: 25px 12px;
+		position: relative;
+	}
+		nav ul.nav>li>a{
+			display: inline-block;
+			text-decoration: none;
+			color: #575757;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 19px;
+		}
+			nav ul.nav>li>a>.fa{
+				position: absolute;
+				top: 25px;
+				left: 25px;
+				top: 45px;
+				left: 42px;
+				font-size: 15px;
+			}
+			nav ul.nav>li:hover>a{
+				color: #be4156;
+			}
+			nav ul.nav>li>a+ul{
+				position: absolute;
+				border: 1px solid #e1e1e1;
+				top: 69px;
+				left: -30px;
+				display: none;
+				width: 157px;
+				background-color: #ffffff;
+				z-index: 10
+			}
+				nav ul.nav>li>a+ul>li{
+					padding: 10px 22px;
+					text-align: center;
+				}
+				nav ul.nav>li>a+ul>li:hover{
+					background-color: #e1e1e1; 
+					color: #ffffff;
+				}
+					nav ul.nav>li>a+ul>li>a{
+						font-family: 'Open Sans', sans-serif;
+						color: #575757;
+						text-decoration: none;
+					}
+					nav ul.nav>li>a+ul>li:hover>a{
+					}
+			nav ul.nav>li:hover>a+ul{
+				display: inline-block;
+			}
