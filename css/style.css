@@ -276,7 +276,7 @@ footer{
 			.services .single_service ul.two_column li{
 				padding: 5px 0 5px 10px;
 				width: 45%;
-				width: calc( 50% - 12px );
+				width: calc( 50% - 15px );
 				display: inline-block;
 				text-align: left;
 			}

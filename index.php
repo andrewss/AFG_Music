@@ -25,7 +25,7 @@
 <nav>
 	<div class="container">
 		<ul class="nav">
-			<li><a href="#">Home</a></li>
+			<li><a href="index.php">Home</a></li>
 			<li>
 				<a href="#">Lessons<i class="fa fa-angle-down"></i></a>
 				<ul>
@@ -36,7 +36,7 @@
 				</ul>
 			</li>
 			<li><a href="#">Sunset Strings</a></li>
-			<li><a href="#">Preformances</a></li>
+			<li><a href="#">Performances</a></li>
 			<li><a href="#">Rentals</a></li>
 			<li><a href="#">Repairs</a></li>
 			<li><a href="#">Contact Us</a></li>

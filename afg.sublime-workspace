@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
 				"te",
 				"text-align"
 			],
@@ -16,16 +32,8 @@
 				"padding-top"
 			],
 			[
-				"mar",
-				"margin-top"
-			],
-			[
 				"di",
 				"display"
-			],
-			[
-				"pa",
-				"padding-right"
 			],
 			[
 				"impo",
@@ -40,20 +48,12 @@
 				"emailSet"
 			],
 			[
-				"ma",
-				"margin-bottom"
-			],
-			[
 				"gam",
 				"gamesArray"
 			],
 			[
 				"tex",
 				"text-decoration"
-			],
-			[
-				"bor",
-				"border-color"
 			],
 			[
 				"paddin",
@@ -255,6 +255,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2179,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -493,8 +509,74 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2219,
+								2219
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2173,
+								2173
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
