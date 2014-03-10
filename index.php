@@ -27,7 +27,7 @@
 		<ul class="nav">
 			<li><a href="index.php">Home</a></li>
 			<li>
-				<a href="#">Lessons<i class="fa fa-angle-down"></i></a>
+				<a href="lessons.php">Lessons<i class="fa fa-angle-down"></i></a>
 				<ul>
 					<li><a href="#">Fred Gillett</a></li>
 					<li><a href="#">Anita Gillett</a></li>

@@ -349,3 +349,39 @@ footer{
 
 
 				}
+
+/* Lessons CSS Start */
+.teachers{
+	
+}
+	.teachers ul{
+		
+	}
+		.teachers ul li.teacher{
+			
+		}
+			.teachers ul li.teacher a{
+				text-decoration: none;
+			}
+				.teachers ul li.teacher a img{
+					display: inline-block;
+					vertical-align: top;
+				}
+				.teachers ul li.teacher a div.text{
+					display: inline-block;
+					max-width: calc(100% - 170px);
+					vertical-align: top;
+				}
+					.teachers ul li.teacher a div.text h2{
+						font-family: 'Roboto', sans-serif;
+						color: #000000;
+						margin: 0 auto;
+						font-size: 28px;
+						font-weight: 500;
+					}
+					.teachers ul li.teacher a div.text p.bio{
+						color: #575757;
+						font-family: 'Open Sans', sans-serif;
+						font-size: 17px;
+						font-weight: 400;
+					}
