@@ -50,15 +50,51 @@
 	<div class="container">
 		<ul>
 			<li class="teacher">
-				<a href="#">
+				<a href="fred_gillett.php">
 					<img src="img/fred_gillett.jpg">
 					<div class="text">
 						<h2>Fred Gillett</h2>
+						<h4>Guitar, Bass, Violin, Mandolin, and Banjo</h4>
 						<p class="bio fred">Fred is the owner of AFG music and has spent his life performing and teaching music.  He is a great instructor with lots of patience.</p>
 					</div>
 				</a>
 			</li>
+
+			<li class="teacher">
+				<a href="anita_gillett.php">
+					<img src="img/anita_gillett.jpg">
+					<div class="text">
+						<h2>Anita Gillett</h2>
+						<h4>Cello, Violin, Piano.</h4>
+						<p class="bio fred">Anita teaches these instruments and is an excellent instructor.</p>
+					</div>
+				</a>
+			</li>
+
+			<li class="teacher">
+				<a href="jon_lundgren.php">
+					<img src="img/jon_lundgren.jpg">
+					<div class="text">
+						<h2>Jon Lundgren</h2>
+						<h4>Drums, Percussion, Piano, Keyboard, and most band instruments. </h4>
+						<p class="bio fred">Jon is an excellent instructor on a wide variety of instruments from drums to horns to keyboards.</p>
+					</div>
+				</a>
+			</li>
+
+			<li class="teacher">
+				<a href="ron_kobayashi.php">
+					<img src="img/ron_kobayashi.jpg">
+					<div class="text">
+						<h2>Ron Kobayashi</h2>
+						<h4>Piano and Keyboards</h4>
+						<p class="bio fred">Ron is an excellent musician and composer as well as an excellent instructor.</p>
+					</div>
+				</a>
+			</li>
 		</ul>
+
+		<p class="note">The standard lesson plan at AFG Music is one half hour per week at a cost of $95 per month.  Individual plans can be arranged with the instructors to meet the needs of the students.</p>
 	</div>
 </div>
 
