@@ -158,18 +158,32 @@ footer{
 		padding: 10px 100px;
 		margin-bottom: 30px;
 	}
-	.about_us h2,
-	.about_us p{
-		color: #575757;
-		margin: 0 auto;
-		font-family: 'Open Sans', sans-serif;	
-		font-size: 17px;
-		font-weight: 400;
-		margin-bottom: 20px;
-		line-height: 24px;
-		max-width: 800px;
-		text-align: left;
+	.about_us img{
+		width: 323px;
+		display: inline-block;
+		vertical-align: top;
+		margin-right: 30px;
+		padding: 3px;
+		border: 1px solid #919191;
+		background-color: #fff
 	}
+	.about_us .text_container{
+		width: 659px;
+		display: inline-block;
+		vertical-align: top;
+	}
+		.about_us h2,
+		.about_us p{
+			color: #575757;
+			margin: 0 auto;
+			font-family: 'Open Sans', sans-serif;	
+			font-size: 17px;
+			font-weight: 400;
+			margin-bottom: 20px;
+			line-height: 24px;
+			max-width: 800px;
+			text-align: left;
+		}
 .services{
 	padding: 50px 0;
 }
@@ -354,55 +368,80 @@ footer{
 .teachers{
 	
 }
-	.teachers ul{
+	.teachers h1.page_title{
+		font-family: 'Roboto', sans-serif;
+		color: #000000;
+		font-size: 36px;
+		font-weight: 500;
+		margin-top: 30px;
+		margin-bottom: 5px;
 		
+	}
+	.teachers p.page_subtitle{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 17px;
+		line-height: 21px;
+		font-weight: 400;
+		color: #575757;
+		margin-bottom: 30px;
+	}
+	.teachers ul{
+		border-top: 1px solid #e1e1e1;
+		border-bottom: 1px solid #e1e1e1;
+		padding-bottom: 30px;
 	}
 		.teachers ul li.teacher{
 			margin-top: 30px;
 		}
-			.teachers ul li.teacher a{
-				text-decoration: none;
+			.teachers ul li.teacher img{
+				display: inline-block;
+				vertical-align: top;
+				width: 160px;
+				padding: 3px;
+				border: 1px solid #919191;
+				margin-right: 15px;
 			}
-				.teachers ul li.teacher a img{
-					display: inline-block;
-					vertical-align: top;
-					width: 160px;
-					padding: 3px;
-					border: 1px solid #919191;
-					margin-right: 15px;
+			.teachers ul li.teacher div.text{
+				display: inline-block;
+				max-width: calc(100% - 187px);
+				vertical-align: top;
+			}
+				.teachers ul li.teacher div.text h2{
+					font-family: 'Roboto', sans-serif;
+					color: #000000;
+					margin: 0 auto;
+					font-size: 28px;
+					font-weight: 500;
+					padding-bottom: 2px;
 				}
-				.teachers ul li.teacher a div.text{
-					display: inline-block;
-					max-width: calc(100% - 187px);
-					vertical-align: top;
+				.teachers ul li.teacher div.text h4{
+					font-family: 'Roboto', sans-serif;
+					color: #292929;
+					margin: 0 auto;
+					font-size: 19px;
+					font-weight: 400;
+					padding-bottom: 10px;
 				}
-					.teachers ul li.teacher a div.text h2{
-						font-family: 'Roboto', sans-serif;
-						color: #000000;
-						margin: 0 auto;
-						font-size: 28px;
-						font-weight: 500;
-						padding-bottom: 2px;
-					}
-					.teachers ul li.teacher a div.text h4{
-						font-family: 'Roboto', sans-serif;
-						color: #292929;
-						margin: 0 auto;
-						font-size: 19px;
-						font-weight: 400;
-						padding-bottom: 10px;
-					}
-					.teachers ul li.teacher a div.text p.bio{
-						color: #575757;
-						font-family: 'Open Sans', sans-serif;
-						font-size: 17px;
-						line-height: 21px;
-						font-weight: 400;
-					}
+				.teachers ul li.teacher div.text p.bio{
+					color: #575757;
+					font-family: 'Open Sans', sans-serif;
+					font-size: 17px;
+					line-height: 21px;
+					font-weight: 400;
+				}
+				.teachers ul li.teacher div.text a{
+					color: #be4156;
+					font-family: 'Open Sans', sans-serif;
+					font-size: 17px;
+					line-height: 21px;
+					font-weight: 400;
+				}
 	.teachers p.note{
 		color: #575757;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 14px;
 		line-height: 21px;
 		font-weight: 400;
+		margin-top: 30px;
+		margin-bottom: 30px;
 	}

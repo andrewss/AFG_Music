@@ -101,12 +101,15 @@
 
 <div class="about_us">
 	<div class="container">
-			<h3>About Us</h3>
+		<h3>About Us</h3>
+		<img src='img/store_front.jpg'>
+		<div class="text_container">
 			<h2>AFG Music has been in business in Costa Mesa since 1980.  We feature music lessons, sales of musical instruments and supplies, repairs, and instrument rentals. </h2>
 			<p>Our Sunset Strings performs at weddings and other special events.</p>
 			<p>While we are not a high volume sales dealer, we do carry a selection of reasonably priced guitars and a wide assortment of parts, strings, reeds, and accessories for various instruments.  Plus we can order whatever we don't carry in stock.</p>
 			<p>Take some time to explore our site to get information on our lessons and instructors, rental instruments, repairs, and our performances for your special ocassions.</p>
 		</div>
+	</div>
 </div>
 <div class="friends">
 	<div class="container">
