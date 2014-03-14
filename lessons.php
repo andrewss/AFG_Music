@@ -57,7 +57,7 @@
 					<h2>Fred Gillett</h2>
 					<h4>Guitar, Bass, Violin, Mandolin, and Banjo</h4>
 					<p class="bio fred">Fred is the owner of AFG music and has spent his life performing and teaching music.  He is a great instructor with lots of patience.</p>
-					<a href="#">View Resume &raquo;</a>
+					<a href="fred_gillett.php">View Resume &raquo;</a>
 				</div>
 			</li>
 
