@@ -373,8 +373,9 @@ footer{
 		color: #000000;
 		font-size: 36px;
 		font-weight: 500;
-		margin-top: 30px;
-		margin-bottom: 5px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		text-align: center;
 		
 	}
 	.teachers p.page_subtitle{
@@ -383,7 +384,7 @@ footer{
 		line-height: 21px;
 		font-weight: 400;
 		color: #575757;
-		margin-bottom: 30px;
+		margin-bottom: 15px;
 	}
 	.teachers ul{
 		border-top: 1px solid #e1e1e1;
@@ -481,3 +482,58 @@ footer{
 			font-weight: 700;
 			color: #575757;
 		}
+
+
+/* Sunset Strings CSS Start*/
+.sunset_strings{
+	text-align: center;
+	
+}
+	.sunset_strings h1.page_title{
+		font-family: 'Roboto', sans-serif;
+		color: #000000;
+		font-size: 36px;
+		font-weight: 500;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		text-align: center;
+		
+	}
+	.sunset_strings h3{
+		font-family: 'Roboto', sans-serif;
+		color: #292929;
+		margin: 0 auto;
+		font-size: 1.5rem;
+		font-weight: 400;
+		margin-bottom: 10px;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #e1e1e1;
+		text-align: left;
+	}
+	.sunset_strings p{
+		color: #575757;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 17px;
+		line-height: 21px;
+		font-weight: 400;
+		margin-bottom: 20px;
+		text-align: left;
+	}
+	.sunset_strings p.img_desc{
+		color: #898989;
+		font-family: 'Open Sans', sans-serif;
+		font-size: .9rem;
+		line-height: 21px;
+		font-weight: 400;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.sunset_strings p.tagline{
+		color: #575757;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1.5rem;
+		line-height: 1.8rem;
+		font-weight: 600;
+		margin-bottom: 20px;
+		text-align: left;
+	}
