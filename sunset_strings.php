@@ -40,7 +40,6 @@
 			<li><a href="#">Rentals</a></li>
 			<li><a href="#">Repairs</a></li>
 			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">Site Map</a></li>
 			<li><a href="#">About Us</a></li>
 		</ul>
 	</div>
@@ -81,7 +80,6 @@
 			<li><a href="#">Rentals</a></li>
 			<li><a href="#">Repairs</a></li>
 			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">Site Map</a></li>
 			<li><a href="#">About Us</a></li>
 		</ul>
 		<p>AFG Music &copy; Copyright <?php echo date("Y")?></p>
