@@ -51,23 +51,26 @@
 		<h1 class="page_title">Performances</h1>
 		<img src="img/performances.jpg">
 		<p class="tagline">AFG Music has a string quartet and Strolling Trio available to perform at your special event.</p>
+		<p>Here are some samples of our music to listen to.  Most songs performed by our String Quartet, and some by the Strolling Trio.</p>
+		<div class="sample_container">
+			<button onclick="playMusic('GermanDance.mp3')">German Dance</button>
+			<button onclick="playMusic('ICouldWriteABook.mp3')">I Could Write a Book</button>
+			<button onclick="playMusic('Jesusita.mp3')">Jesusita</button>
+			<button onclick="playMusic('LidaRose.mp3')">Lida Rose</button>
+			<button onclick="playMusic('LittleMermaid.mp3')">Little Mermaid</button>
+			<button onclick="playMusic('MerryWidow.mp3')">Merry Widow</button>
+			<button onclick="playMusic('OdeToJoy.mp3')">Ode To Joy</button>
+			<button onclick="playMusic('SomewhereMyLove.mp3')">Somewhere My Love</button>
+			<button onclick="playMusic('ThinkOfMe.mp3')">Think Of Me</button>
+			<button onclick="playMusic('TwoGuitars.mp3')">Two Guitars</button>
+			<button onclick="playMusic('YellowBird.mp3')">Yellow Bird</button>
+		</div>
 		
 		<audio controls>
 			<source src="music/GermanDance.mp3" type="audio/mpeg">
 		Your browser does not support the audio element.
 		</audio>
-		<div class="sample_container">
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-			<button onclick="playMusic()">German Dance</button>
-		</div>
-		<p>Here are some samples of our music that you can listen to.  Most songs performed by our String Quartet, and some by the Strolling Trio.</p>
-		<p>Please contact AFG Music to discuss availability, pricing, and music selection.</p>
+		<p class="note">Please contact AFG Music to discuss availability, pricing, and music selection.</p>
 	</div>
 </div>
 
