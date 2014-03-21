@@ -580,7 +580,7 @@ footer{
 		font-size: 14px;
 		line-height: 21px;
 		font-weight: 400;
-		margin-top: 30px;
+		margin-top: 8px;
 		margin-bottom: 30px;
 		text-align: center;
 	}
@@ -598,6 +598,7 @@ footer{
 		text-align: center;
 	}
 	.preformances .sample_container{
+		margin-bottom: 20px;
 	}
 		.preformances .sample_container button{
 			font-family: 'Roboto', sans-serif;
@@ -614,6 +615,7 @@ footer{
 			border: 0;
 			width: 240px;
 			margin-left: 16px;
+			margin-bottom:8px;
 		}
 		.preformances .sample_container button:nth-child(4n + 1){
 			margin-left:0;

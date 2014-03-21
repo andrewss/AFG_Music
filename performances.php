@@ -66,8 +66,7 @@
 			<button onclick="playMusic('YellowBird.mp3')">Yellow Bird</button>
 		</div>
 		
-		<audio controls>
-			<source src="music/GermanDance.mp3" type="audio/mpeg">
+		<audio id="audio" controls src="music/GermanDance.mp3" type="audio/mpeg">
 		Your browser does not support the audio element.
 		</audio>
 		<p class="note">Please contact AFG Music to discuss availability, pricing, and music selection.</p>
@@ -90,5 +89,15 @@
 		<p>AFG Music &copy; Copyright <?php echo date("Y")?></p>
 	</div>
 </footer>
+<script>
+$(function(){
+});
+
+function playMusic(newSong){
+	var audio = document.getElementById("audio");
+	audio.src = 'music/' + newSong;
+	audio.play();
+}
+</script>
 </body>
 </html>
