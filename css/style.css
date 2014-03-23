@@ -711,41 +711,51 @@ p.note{
 			margin-bottom: 5px;
 			text-align: left;
 		}
-	.rentals table{
+	.rentals table,
+	.repairs table{
 		width: 800px;
 		margin: 0 auto;
 	}
-		.rentals table thead{
+		.rentals table thead,
+		.repairs table thead{
 			background-color: #be4156;
 			color: #F0F0F0;
 			font-family: 'Open Sans', sans-serif;
 			font-size: 17px;
 			line-height: 21px;
-			font-weight: 600px;
 		}
 
-		.rentals table tbody{
+		.rentals table tbody,
+		.repairs table tbody{
 			color: #575757;
 			font-family: 'Open Sans', sans-serif;
 			font-size: 17px;
 			line-height: 21px;
 		}
-			.rentals table tbody tr{
+			.rentals table tbody tr,
+			.repairs table tbody tr{
 			}
-			.rentals table tbody tr:nth-child(even){
+			.rentals table tbody tr:nth-child(even),
+			.repairs table tbody tr:nth-child(even){
 				background-color: #eaeaea;
 			}
 				.rentals table tbody tr td,
-				.rentals table thead tr th{
+				.rentals table thead tr th,
+				.repairs table tbody tr td,
+				.repairs table thead tr th{
 					padding: 3px 5px;
 					text-align: center;
 				}
 				.rentals table tbody tr td:nth-child(1),
-				.rentals table thead tr th:nth-child(1){
+				.rentals table thead tr th:nth-child(1),
+				.repairs table tbody tr td:nth-child(1),
+				.repairs table thead tr th:nth-child(1){
 					text-align: left;
 				}
 					.rentals table tbody tr td span,
-					.rentals table thead tr th span{
+					.rentals table thead tr th span,
+					.repairs table tbody tr td span,
+					.repairs table thead tr th span{
 						padding-left: 40px;
 					}
 
@@ -759,3 +769,98 @@ p.note{
 		width: 640px;
 		height: 480px;
 	}
+
+/*Contact page CSS start*/
+.contact{
+}
+	.contact .loc_container{
+
+	}
+		.contact .loc_container iframe{
+			width: 50%;
+			padding-right: 10px;
+			display: inline-block;
+			box-sizing:border-box;
+			-moz-box-sizing:border-box; /* Firefox */
+			vertical-align: middle;
+		}
+		.contact .loc_container .address_container{
+			width: 49%;
+			padding-left: 10px;
+			display: inline-block;
+			box-sizing:border-box;
+			-moz-box-sizing:border-box; /* Firefox */
+			vertical-align: middle;
+		}
+			.contact .loc_container .address_container .address{
+				color: #575757;
+				font-family: 'Open Sans', sans-serif;
+				font-size: 17px;
+				line-height: 21px;
+				font-weight: 600;
+				margin-bottom: 0;
+			}
+			.contact .loc_container .address_container .address_note{
+				margin-top: 30px;
+			}
+	.contact form{
+		
+	}
+		.contact form .input_container{
+			box-sizing:border-box;
+			-moz-box-sizing:border-box; /* Firefox */
+			width: 49%;
+			width: calc(50% - 2px);
+			display: inline-block;
+		}
+		.contact form .input_container:nth-child(even){
+			padding-left: 10px;
+		}
+		.contact form .input_container:nth-child(odd){
+			padding-right: 10px;
+		}
+			.contact form .input_container label,
+			.contact form .textarea_container label{
+				display: block;
+				color: #575757;
+				font-family: 'Open Sans', sans-serif;
+				font-size: 17px;
+				line-height: 21px;
+				font-weight: 600;
+			}
+				.contact form .input_container label .req,
+				.contact form .textarea_container label .req{
+					font-size: 14px;
+					font-weight: 400;
+				}
+			.contact form .input_container input{
+				display: block;
+				width: 100%;
+				padding: 5px 10px;
+				color: #575757;
+				font-family: 'Open Sans', sans-serif;
+				font-size: 17px;
+				box-sizing:border-box;
+				-moz-box-sizing:border-box; /* Firefox */
+				border: #575757 1px solid;
+				background-color: #FCFCFC;
+			}
+		.contact form .textarea_container{
+			box-sizing:border-box;
+			-moz-box-sizing:border-box; /* Firefox */
+			width: 100%;
+		}
+			.contact form .textarea_container textarea{
+				box-sizing:border-box;
+				-moz-box-sizing:border-box; /* Firefox */
+				width: 100%;
+				padding: 5px 10px;
+				color: #575757;
+				font-family: 'Open Sans', sans-serif;
+				font-size: 17px;
+				box-sizing:border-box;
+				-moz-box-sizing:border-box; /* Firefox */
+				height: 160px;
+				border: #575757 1px solid;
+				background-color: #FCFCFC;
+			}
