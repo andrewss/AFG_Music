@@ -64,7 +64,7 @@
  		<table>
  			<thead>
  				<tr>
- 					<th>Instrument</th>
+ 					<th><span>Instrument</span></th>
  					<th>Rental (Used)</th>
  					<th>Rental (New)</th>
  					<th>Lease (New)</th>
@@ -72,43 +72,98 @@
  			</thead>
  			<tbody>
  				<tr>
- 					<td>Flute</td>
+ 					<td><span>Flute</span></td>
  					<td>$21</td>
  					<td>$32</td>
  					<td>$37 @ 22 Months</td>
  				</tr>
  				<tr>
- 					<td>Flute</td>
+ 					<td><span>Clarinet</span></td>
  					<td>$21</td>
- 					<td>$32</td>
+ 					<td>$30</td>
  					<td>$37 @ 22 Months</td>
  				</tr>
  				<tr>
- 					<td>Flute</td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 22 Months</td>
+ 					<td><span>Alto Sax</span></td>
+ 					<td>$45</td>
+ 					<td>$65</td>
+ 					<td>$68 @ 25 Months</td>
  				</tr>
  				<tr>
- 					<td>Flute</td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 22 Months</td>
+ 					<td><span>Tenor Sax</span></td>
+ 					<td>$47</td>
+ 					<td>$70</td>
+ 					<td>$78 @ 25 Months</td>
  				</tr>
  				<tr>
- 					<td>Flute</td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 22 Months</td>
+ 					<td><span>Oboe</span></td>
+ 					<td>$40</td>
+ 					<td>$70</td>
+ 					<td>* Special Order *</td>
  				</tr>
  				<tr>
- 					<td>Flute</td>
+ 					<td><span>Trumpet</span></td>
  					<td>$21</td>
  					<td>$32</td>
- 					<td>$37 @ 22 Months</td>
+ 					<td>$43 @ 24 Months</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Silver Trumpet</span></td>
+ 					<td>$26</td>
+ 					<td>$45</td>
+ 					<td>$54 @ 24 Months</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Trombone</span></td>
+ 					<td>$21</td>
+ 					<td>$32</td>
+ 					<td>$43 @ 24 Months</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Silver Trombone</span></td>
+ 					<td>$26</td>
+ 					<td>$45</td>
+ 					<td>$50 @ 24 Months</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>French Horn</span></td>
+ 					<td>$55</td>
+ 					<td>--</td>
+ 					<td>* Special Order *</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Violin</span></td>
+ 					<td>$21</td>
+ 					<td>$32</td>
+ 					<td>$37 @ 24 Months</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Viola</span></td>
+ 					<td>$21</td>
+ 					<td>$32</td>
+ 					<td>* Special Order *</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Cello</span></td>
+ 					<td>$45</td>
+ 					<td>$68</td>
+ 					<td>* Special Order *</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>String Bass</span></td>
+ 					<td>$60</td>
+ 					<td> -- </td>
+ 					<td>* Special Order *</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Guitar</span></td>
+ 					<td>$23</td>
+ 					<td>$35</td>
+ 					<td>* Special Order *</td>
  				</tr>
  			</tbody>
  		</table>
+ 		<p class="note">Prices are subject to change without notice and are subject to availability.</p>
 	</div>
 </div>
 

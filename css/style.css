@@ -37,7 +37,10 @@ header h3{
 	color: #ffffff;
 	text-align: center;
 	margin-top: 5px;
-	padding-bottom: 40px
+	padding-bottom: 40px;
+	font-size: 1rem;
+	margin-bottom: 0;
+	border: 0;
 }
 header a{
 	margin-top: 30px;
@@ -157,6 +160,8 @@ footer{
 		font-weight: 500;
 		padding: 10px 100px;
 		margin-bottom: 30px;
+		border:0;
+		text-align: center;
 	}
 	.about_us img{
 		width: 320px;
@@ -195,6 +200,7 @@ footer{
 		font-weight: 500;
 		padding: 10px 100px;
 		margin-bottom: 30px;
+		border:0;
 		text-align: center;
 	}
 	.services .single_service{
@@ -318,7 +324,6 @@ footer{
 .friends{
 	position: relative;
 	text-align: center;
-	//background-color: #848484;
 	padding: 50px 0;
 }
 	.friends h3{
@@ -330,6 +335,8 @@ footer{
 		font-weight: 500;
 		padding: 10px 100px;
 		margin-bottom: 30px;
+		border:0;
+		text-align: center;
 	}
 	.friends ul{
 		margin: 0 auto 20px auto;
@@ -364,7 +371,6 @@ footer{
 
 				}
 /* Generic Page CSS Start*/
-/* Sunset Strings CSS Start*/
 h1.page_title{
 	font-family: 'Roboto', sans-serif;
 	color: #000000;
@@ -692,6 +698,19 @@ p.note{
 		.rentals p em{
 			font-weight: 600;
 		}
+	.rentals ul{
+		list-style-type: disc;
+		padding-left: 22px;
+	}
+		.rentals li{
+			color: #575757;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 17px;
+			line-height: 21px;
+			font-weight: 400;
+			margin-bottom: 5px;
+			text-align: left;
+		}
 	.rentals table{
 		width: 800px;
 		margin: 0 auto;
@@ -716,5 +735,27 @@ p.note{
 			.rentals table tbody tr:nth-child(even){
 				background-color: #eaeaea;
 			}
+				.rentals table tbody tr td,
+				.rentals table thead tr th{
+					padding: 3px 5px;
+					text-align: center;
+				}
+				.rentals table tbody tr td:nth-child(1),
+				.rentals table thead tr th:nth-child(1){
+					text-align: left;
+				}
+					.rentals table tbody tr td span,
+					.rentals table thead tr th span{
+						padding-left: 40px;
+					}
 
 /* Rentals CSS End*/
+
+/*About page CSS start*/
+.about{
+	text-align: center;
+}
+	.about img{
+		width: 640px;
+		height: 480px;
+	}
