@@ -49,7 +49,7 @@
 <div class="contact">
 	<div class="container">
 		<h1 class="page_title">Contact</h1>
-		<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=711+West+17th+St.+Suite+F1+Costa+Mesa,+Ca.+92627&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=57.42297,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=711+W+17th+St,+Costa+Mesa,+California+92627&amp;t=m&amp;z=14&amp;ll=33.634883,-117.927863&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=711+West+17th+St.+Suite+F1+Costa+Mesa,+Ca.+92627&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=57.42297,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=711+W+17th+St,+Costa+Mesa,+California+92627&amp;t=m&amp;z=14&amp;ll=33.634883,-117.927863" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+		<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=711+West+17th+St.+Suite+F1+Costa+Mesa,+Ca.+92627&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=57.42297,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=711+W+17th+St,+Costa+Mesa,+California+92627&amp;t=m&amp;z=14&amp;ll=33.634883,-117.927863&amp;output=embed"></iframe>
 	</div>
 </div>
 
