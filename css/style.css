@@ -184,11 +184,12 @@ footer{
 			font-family: 'Open Sans', sans-serif;	
 			font-size: 17px;
 			font-weight: 400;
-			margin-bottom: 20px;
-			line-height: 24px;
+			margin-bottom: 13px;
+			line-height: 26px;
 			max-width: 800px;
 			text-align: left;
 		}
+
 .services{
 	padding: 50px 0;
 }
@@ -250,18 +251,17 @@ footer{
 			font-size: 22px;
 			font-weight: 400;
 			color: #000000;
-			padding-bottom: 3px;
+			padding-bottom: 15px;
 			text-align: center;
-
 		}
 		.services .single_service h6{
 			font-family: 'Roboto', sans-serif;
 			font-size: 17px;
+			line-height: 24px;
 			font-weight: 400;
 			color: #292929;
 			padding-bottom: 20px;
 			text-align: center;
-
 		}
 
 		.services .single_service p{
@@ -315,7 +315,7 @@ footer{
 			position: absolute;
 			width: 250px;
 			text-align: center;
-			top: 395px;
+			top: 420px;
 			left: 50%;
 			margin-left: -125px;
 
@@ -339,7 +339,7 @@ footer{
 		text-align: center;
 	}
 	.friends ul{
-		margin: 0 auto 20px auto;
+		margin: 0px auto;
 	}
 		.friends ul li{
 			padding: 0 60px;
@@ -376,19 +376,19 @@ h1.page_title{
 	color: #000000;
 	font-size: 36px;
 	font-weight: 500;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	margin: 40px 0px 30px;
 	text-align: center;
 	
 }
 h3{
 	font-family: 'Roboto', sans-serif;
 	color: #292929;
-	margin: 0 auto;
+	margin: 30px auto 10px;
 	font-size: 1.5rem;
+	line-height: 2rem;
 	font-weight: 400;
 	margin-bottom: 10px;
-	padding-bottom: 5px;
+	padding-bottom: 10px;
 	border-bottom: 1px solid #e1e1e1;
 	text-align: left;
 }
@@ -396,69 +396,60 @@ p{
 	color: #575757;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;
-	line-height: 21px;
+	line-height: 26px;
 	font-weight: 400;
-	margin-bottom: 20px;
+	margin-bottom: 13px;
 	text-align: left;
 }
 p.img_desc{
 	color: #898989;
 	font-family: 'Open Sans', sans-serif;
 	font-size: .9rem;
-	line-height: 21px;
+	line-height: 26px;
 	font-weight: 400;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	text-align: center;
 }
 p.tagline{
 	color: #be4156;
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.5rem;
-	line-height: 1.8rem;
+	line-height: 2.1rem;
 	font-weight: 400;
-	margin-bottom: 20px;
+	margin: 40px 0px 20px;
 	text-align: left;
 }
 p.note{
 	color: #575757;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
-	line-height: 21px;
+	line-height: 26px;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 30px;
 	margin-bottom: 30px;
 	text-align: center;
 }
 
 /* Lessons CSS Start */
 .teachers{
+	margin-bottom: 50px;
 	
 }
-	.teachers h1.page_title{
-		font-family: 'Roboto', sans-serif;
-		color: #000000;
-		font-size: 36px;
-		font-weight: 500;
-		margin-top: 15px;
-		margin-bottom: 15px;
-		text-align: center;
-		
-	}
 	.teachers p.page_subtitle{
 		font-family: 'Open Sans', sans-serif;
 		font-size: 17px;
-		line-height: 21px;
+		line-height: 26px;
 		font-weight: 400;
 		color: #575757;
-		margin-bottom: 15px;
 	}
 	.teachers ul{
+		margin-top: 40px;
+		padding-top: 40px;
 		border-top: 1px solid #e1e1e1;
 		border-bottom: 1px solid #e1e1e1;
-		padding-bottom: 30px;
 	}
 		.teachers ul li.teacher{
-			margin-top: 30px;
+			margin-bottom: 40px;
 		}
 			.teachers ul li.teacher img{
 				display: inline-block;
@@ -478,6 +469,7 @@ p.note{
 					color: #000000;
 					margin: 0 auto;
 					font-size: 28px;
+					line-height: 36px;
 					font-weight: 500;
 					padding-bottom: 2px;
 				}
@@ -493,25 +485,17 @@ p.note{
 					color: #575757;
 					font-family: 'Open Sans', sans-serif;
 					font-size: 17px;
-					line-height: 21px;
+					line-height: 26px;
 					font-weight: 400;
 				}
 				.teachers ul li.teacher div.text a{
 					color: #be4156;
 					font-family: 'Open Sans', sans-serif;
 					font-size: 17px;
-					line-height: 21px;
+					line-height: 26px;
 					font-weight: 400;
 				}
-	.teachers p.note{
-		color: #575757;
-		font-family: 'Open Sans', sans-serif;
-		font-size: 14px;
-		line-height: 21px;
-		font-weight: 400;
-		margin-top: 30px;
-		margin-bottom: 30px;
-	}
+
 
 /*Resume CSS start*/
 .resume{
@@ -540,7 +524,7 @@ p.note{
 		color: #575757;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 17px;
-		line-height: 21px;
+		line-height: 26px;
 		font-weight: 400;
 		margin-bottom: 20px
 	}
@@ -553,111 +537,17 @@ p.note{
 /* Sunset Strings CSS Start*/
 .sunset_strings{
 	text-align: center;
-	margin-bottom: 30px;
-	
+	margin-bottom: 50px;
 }
-	.sunset_strings h1.page_title{
-		font-family: 'Roboto', sans-serif;
-		color: #000000;
-		font-size: 36px;
-		font-weight: 500;
-		margin-top: 15px;
-		margin-bottom: 15px;
-		text-align: center;
-		
-	}
-	.sunset_strings h3{
-		font-family: 'Roboto', sans-serif;
-		color: #292929;
-		margin: 0 auto;
-		font-size: 1.5rem;
-		font-weight: 400;
-		margin-bottom: 10px;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #e1e1e1;
-		text-align: left;
-	}
-	.sunset_strings p{
-		color: #575757;
-		font-family: 'Open Sans', sans-serif;
-		font-size: 17px;
-		line-height: 21px;
-		font-weight: 400;
-		margin-bottom: 20px;
-		text-align: left;
-	}
-	.sunset_strings p.img_desc{
-		color: #898989;
-		font-family: 'Open Sans', sans-serif;
-		font-size: .9rem;
-		line-height: 21px;
-		font-weight: 400;
-		margin-bottom: 20px;
-		text-align: center;
-	}
-	.sunset_strings p.tagline{
-		color: #be4156;
-		font-family: 'Roboto', sans-serif;
-		font-size: 1.5rem;
-		line-height: 1.8rem;
-		font-weight: 400;
-		margin-bottom: 20px;
-		text-align: left;
-	}
+
 /* Performances CSS Start*/
 .preformances{
 	text-align: center;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 	
 }
-	.preformances h1.page_title{
-		font-family: 'Roboto', sans-serif;
-		color: #000000;
-		font-size: 36px;
-		font-weight: 500;
-		margin-top: 15px;
-		margin-bottom: 15px;
-		text-align: center;
-		
-	}
-	.preformances h3{
-		font-family: 'Roboto', sans-serif;
-		color: #292929;
-		margin: 0 auto;
-		font-size: 1.5rem;
-		font-weight: 400;
-		margin-bottom: 10px;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #e1e1e1;
-		text-align: left;
-	}
 	.preformances p{
-		color: #575757;
-		font-family: 'Open Sans', sans-serif;
-		font-size: 17px;
-		line-height: 21px;
-		font-weight: 400;
-		margin-bottom: 20px;
-		text-align: center;
-	}
-	.preformances p.note{
-		color: #575757;
-		font-family: 'Open Sans', sans-serif;
-		font-size: 14px;
-		line-height: 21px;
-		font-weight: 400;
-		margin-top: 8px;
 		margin-bottom: 30px;
-		text-align: center;
-	}
-	.preformances p.tagline{
-		color: #be4156;
-		font-family: 'Roboto', sans-serif;
-		font-size: 1.5rem;
-		line-height: 1.8rem;
-		font-weight: 400;
-		margin-bottom: 20px;
-		text-align: center;
 	}
 	.preformances audio{
 		width: 640px;
@@ -681,7 +571,8 @@ p.note{
 			border: 0;
 			width: 240px;
 			margin-left: 16px;
-			margin-bottom:8px;
+			margin-bottom: 10px;
+			cursor: pointer;
 		}
 		.preformances .sample_container button:nth-child(4n + 1){
 			margin-left:0;
@@ -689,8 +580,9 @@ p.note{
 
 /* Rentals CSS Start*/
 
-.rentals{
-	
+.rentals,
+.repairs{
+	margin-bottom: 50px;
 }
 	.rentals p{
 		
@@ -706,23 +598,38 @@ p.note{
 			color: #575757;
 			font-family: 'Open Sans', sans-serif;
 			font-size: 17px;
-			line-height: 21px;
+			line-height: 26px;
 			font-weight: 400;
 			margin-bottom: 5px;
 			text-align: left;
 		}
+
 	.rentals table,
 	.repairs table{
 		width: 800px;
 		margin: 0 auto;
 	}
+
+	.rentals table {
+		margin-top: 40px;
+	}
+
+	.rentals table,
+	.repairs table {
+		border-bottom: 2px solid #be4156;
+	}
+
+	.repairs table + table {
+		margin-top: 40px;
+	}
+
 		.rentals table thead,
 		.repairs table thead{
 			background-color: #be4156;
 			color: #F0F0F0;
 			font-family: 'Open Sans', sans-serif;
 			font-size: 17px;
-			line-height: 21px;
+			line-height: 26px;
 		}
 
 		.rentals table tbody,
@@ -730,7 +637,7 @@ p.note{
 			color: #575757;
 			font-family: 'Open Sans', sans-serif;
 			font-size: 17px;
-			line-height: 21px;
+			line-height: 26px;
 		}
 			.rentals table tbody tr,
 			.repairs table tbody tr{
@@ -743,7 +650,7 @@ p.note{
 				.rentals table thead tr th,
 				.repairs table tbody tr td,
 				.repairs table thead tr th{
-					padding: 3px 5px;
+					padding: 6px 5px;
 					text-align: center;
 				}
 				.rentals table tbody tr td:nth-child(1),
@@ -764,14 +671,17 @@ p.note{
 /*About page CSS start*/
 .about{
 	text-align: center;
+	margin-bottom: 50px;
 }
 	.about img{
 		width: 640px;
 		height: 480px;
+		margin-bottom: 40px;
 	}
 
 /*Contact page CSS start*/
 .contact{
+	margin-bottom: 50px;
 }
 	.contact .loc_container{
 
@@ -796,7 +706,7 @@ p.note{
 				color: #575757;
 				font-family: 'Open Sans', sans-serif;
 				font-size: 17px;
-				line-height: 21px;
+				line-height: 26px;
 				font-weight: 600;
 				margin-bottom: 0;
 			}
@@ -804,6 +714,7 @@ p.note{
 				margin-top: 30px;
 			}
 	.contact form{
+		margin-top: 40px;
 		
 	}
 		.contact form .input_container{
@@ -819,13 +730,17 @@ p.note{
 		.contact form .input_container:nth-child(odd){
 			padding-right: 10px;
 		}
+
+		.contact form .input_container:nth-child(n + 3) {
+			margin-top: 12px;
+		}
 			.contact form .input_container label,
 			.contact form .textarea_container label{
 				display: block;
 				color: #575757;
 				font-family: 'Open Sans', sans-serif;
 				font-size: 17px;
-				line-height: 21px;
+				line-height: 26px;
 				font-weight: 600;
 			}
 				.contact form .input_container label .req,
@@ -846,6 +761,7 @@ p.note{
 				background-color: #FCFCFC;
 			}
 		.contact form .textarea_container{
+			margin-top: 12px;
 			box-sizing:border-box;
 			-moz-box-sizing:border-box; /* Firefox */
 			width: 100%;
