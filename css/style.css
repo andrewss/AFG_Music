@@ -930,4 +930,74 @@ p.note{
 		padding: 0 20px;
 		text-align: center;
 	}
+	/* Performances CSS Start*/
+	.preformances .sample_container button:nth-child(4n + 1),
+	.preformances .sample_container button{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.preformances audio{
+		width: 90%;
+	}
+
+	/* Rentals Page CSS*/
+	.rentals ul {
+		padding-left: 42px;
+		padding-right: 20px;
+	}
+	.rentals table tbody tr td span, 
+	.rentals table thead tr th span, 
+	.repairs table tbody tr td span, 
+	.repairs table thead tr th span {
+		padding-left: 0;
+	}
+	.rentals table, 
+	.repairs table{
+		width: 90%;
+	}
+	.repairs div.full{
+		width: 90%;
+	}
+	/* Contact Page CSS */
+	.contact .loc_container{
+		text-align: center;
+	}
+	.contact .loc_container .address_container{
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+		padding: 0;
+	}
+	.contact .loc_container iframe{
+		margin: 0 auto;
+		width: 90%;
+		text-align: center;
+		padding: 0;
+	}
+	.contact form{
+		padding: 0 20px;
+	}
+
+	/* About Page CSS*/
+	.about img{
+		height: auto;
+	}
+
+	/*Resume page CSS*/
+	.resume h1.name{
+		text-align: center;
+	}
+	.resume .resume_img img{
+		display: none;
+	}
+	.resume .resume_title p{
+		text-align: center;
+	}
+	.repairs div.half{
+		width: 100%;
+	}
+	.repairs .half table{
+		width: 100%;
+	}
 }
+

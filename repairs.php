@@ -189,7 +189,7 @@
  					<td>--</td>
  				</tr>
  				<tr>
- 					<td><span>Valve bumper(per Valve)</span></td>
+ 					<td><span>Valve Bumper (Per Valve)</span></td>
  					<td>--</td>
  					<td>$5</td>
  					<td>--</td>
