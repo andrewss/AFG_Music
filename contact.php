@@ -59,18 +59,18 @@
 				<p class="address">(949) 548-7898</p>
 				<p class="address_note">We are located a few blocks from 17th. St and Harbor Blvd. in Costa Mesa. Our address is on 17th street, but we are located in the back of the complex. To get to us, take Pomona St. to Farad, which is one block south of 17th street, and turn in the driveway on the right.</p>
 			</div>
-			<form method="POST">
+			<form method="POST" action="send_email.php">
 				<div class="input_container">
 					<label>First Name<span class="req">*<span></label>
-					<input type="text" name="fname">
+					<input type="text" name="fname" required>
 				</div>
 				<div class="input_container">
 					<label>Last Name<span class="req">*<span></label>
-					<input type="text" name="lname">
+					<input type="text" name="lname" required>
 				</div>
 				<div class="input_container">
 					<label>Email<span class="req">*<span></label>
-					<input type="text" name="email">
+					<input type="email" name="email" required>
 				</div>
 				<div class="input_container">
 					<label>Phone Number</label>
@@ -78,7 +78,7 @@
 				</div>
 				<div class="textarea_container">
 					<label>Message<span class="req">*<span></label>
-					<textarea name="message"></textarea>
+					<textarea name="message" required></textarea>
 				</div>
 				<button type="submit">Send</button>
 			</form>
@@ -96,12 +96,12 @@
 			<li><a href="performances.php">Performances</a></li>
 			<li><a href="rentals.php">Rentals</a></li>
 			<li><a href="repairs.php">Repairs</a></li>
-			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">Site Map</a></li>
-			<li><a href="#">About Us</a></li>
+			<li><a href="contact.php">Contact Us</a></li>
+			<li><a href="about.php">About Us</a></li>
 		</ul>
 		<p>AFG Music &copy; Copyright <?php echo date("Y")?></p>
 	</div>
 </footer>
+
 </body>
 </html>
