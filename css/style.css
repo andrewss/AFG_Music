@@ -838,14 +838,11 @@ p.note{
 			clear: both;
 		}
 
-
 @media all and (max-device-width: 1023px) {
-}
-@media all and (max-device-width: 767px) {
-
-}
-@media all and (max-device-width: 500px) {
 	/* Index Page CSS Start*/
+	.container{
+		max-width: 768px;
+	}
 	header h3{
 		font-size: .8rem;
 	}
@@ -895,4 +892,42 @@ p.note{
 		display: none;
 	}
 	/* Index Page CSS End*/
+
+	/* Generic Page CSS Start*/
+	p.tagline{
+		text-align: center;
+		padding: 0 20px;
+	}
+	p.note{
+		padding: 0 20px;
+	}
+	.container>img{
+		width: 90%;
+	}
+	p.img_desc{
+		padding: 0 20px;
+		text-align: center;
+	}
+	h3{
+		padding: 0 20px;
+		text-align: center;
+	}
+	p{
+		padding: 0 20px;
+	}
+
+	/* Lessons Page CSS Start */
+	.teachers ul li.teacher div.text{
+		display: block;
+		max-width: 100%;
+	}
+	.teachers ul li.teacher{
+		text-align: center;
+	}
+	.teachers ul li.teacher div.text h4,
+	.teachers ul li.teacher div.text h2,
+	.teachers ul li.teacher div.text p.bio{
+		padding: 0 20px;
+		text-align: center;
+	}
 }
