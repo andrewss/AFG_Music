@@ -66,7 +66,7 @@
 					<h2>Anita Gillett</h2>
 					<h4>Cello, Violin, Piano.</h4>
 					<p class="bio fred">Anita teaches these instruments and is an excellent instructor.</p>
-					<a href="#">View Resume &raquo;</a>
+					<a href="anita_gillett.php">View Resume &raquo;</a>
 				</div>
 			</li>
 
@@ -76,7 +76,7 @@
 					<h2>Jon Lundgren</h2>
 					<h4>Drums, Percussion, Piano, Keyboard, and most band instruments. </h4>
 					<p class="bio fred">Jon is an excellent instructor on a wide variety of instruments from drums to horns to keyboards.</p>
-					<a href="#">View Resume &raquo;</a>
+					<a href="jon_lundgren.php">View Resume &raquo;</a>
 				</div>
 			</li>
 
@@ -86,7 +86,7 @@
 					<h2>Ron Kobayashi</h2>
 					<h4>Piano and Keyboards</h4>
 					<p class="bio fred">Ron is an excellent musician and composer as well as an excellent instructor.</p>
-					<a href="#">View Resume &raquo;</a>
+					<a href="ron_kobayashi.php">View Resume &raquo;</a>
 				</div>
 			</li>
 		</ul>
