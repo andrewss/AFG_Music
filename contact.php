@@ -15,6 +15,12 @@
 <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
 </head>
 <body>
+<?php
+
+if(isset($_POST['fail'])){
+	echo'<script>alert("An error occured while trying to send your message. Please try to resend it later.");</script>';
+}
+?>
 <header>
 	<div class="container">
 		<a href="index.php"><img src="img/afg_white.png" alt="Home"></a>
