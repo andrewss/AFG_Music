@@ -631,6 +631,26 @@ p.note{
 		border-bottom: 2px solid #be4156;
 	}
 
+	.repairs div.full {
+		width: 800px;
+		margin: 0 auto;
+		overflow: hidden;
+	}
+
+	.repairs div.half {
+		width: 380px;
+		margin-top: 40px;
+		float: left;
+	}
+
+	.repairs div.half:nth-child(odd) {
+		margin-right: 40px;
+	}
+
+	.repairs .half table {
+		width: 100%;
+	}
+
 	.repairs table + table {
 		margin-top: 40px;
 	}

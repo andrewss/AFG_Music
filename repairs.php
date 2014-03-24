@@ -287,160 +287,176 @@
  			</tbody>
  		</table>
 
- 		<table class="half">
- 			<thead>
- 				<tr>
- 					<th><span>Trumpet Overhaul</span></th>
- 					<th></th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Lacquer</span></td>
- 					<td>$350</td>
- 				</tr>
- 				<tr>
- 					<td><span>Econo</span></td>
- 					<td>$225</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Pl</span></td>
- 					<td>$435</td>
- 				</tr>
- 				<tr>
- 					<td><span>Proffsnl Add</span></td>
- 					<td>$5</td>
- 				</tr>
- 			</tbody>
- 		</table>
+ 		<div class="full">
+	 		<div class="half">
+		 		<table>
+		 			<thead>
+		 				<tr>
+		 					<th><span>Trumpet Overhaul</span></th>
+		 					<th></th>
+		 				</tr>
+		 			</thead>
+		 			<tbody>
+		 				<tr>
+		 					<td><span>Lacquer</span></td>
+		 					<td>$350</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Econo</span></td>
+		 					<td>$225</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Silver Pl</span></td>
+		 					<td>$435</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Proffsnl Add</span></td>
+		 					<td>$5</td>
+		 				</tr>
+		 			</tbody>
+		 		</table>
+		 	</div>
+		 	<div class="half">
+		 		<table>
+		 			<thead>
+		 				<tr>
+		 					<th><span>French Horn Overhaul</span></th>
+		 					<th></th>
+		 				</tr>
+		 			</thead>
+		 			<tbody>
+		 				<tr>
+		 					<td><span>Single</span></td>
+		 					<td>$600</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Double</span></td>
+		 					<td>$850</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Econo Single</span></td>
+		 					<td>$350</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Econo Double</span></td>
+		 					<td>$500</td>
+		 				</tr>
+		 			</tbody>
+		 		</table>
+		 	</div>
+		</div>
+		<div class="full">
+		 	<div class="half">
+		 		<table>
+		 			<thead>
+		 				<tr>
+		 					<th><span>Trombone Overhaul</span></th>
+		 					<th></th>
+		 				</tr>
+		 			</thead>
+		 			<tbody>
+		 				<tr>
+		 					<td><span>Student</span></td>
+		 					<td>$350</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Econo</span></td>
+		 					<td>$225</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Professional</span></td>
+		 					<td>$350</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Slide Only Student</span></td>
+		 					<td>$60</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Slide Only Professional</span></td>
+		 					<td>$85</td>
+		 				</tr>
+		 			</tbody>
+		 		</table>
+		 	</div>
+		 	<div class="half">
+		 		<table>
+		 			<thead>
+		 				<tr>
+		 					<th><span>Tuba Overhaul</span></th>
+		 					<th></th>
+		 				</tr>
+		 			</thead>
+		 			<tbody>
+		 				<tr>
+		 					<td><span>Fiberglass</span></td>
+		 					<td>$690</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Sousa Disassemble / Dents</span></td>
+		 					<td>$550</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Bell Overhaul Full</span></td>
+		 					<td>$350</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Bell Econo</span></td>
+		 					<td>$225</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Dents Only</span></td>
+		 					<td>$125</td>
+		 				</tr>
+		 			</tbody>
+		 		</table>
+		 	</div>
+		</div>
+		<div class="full">
+	 		<div class="half">
+		 		<table>
+		 			<thead>
+		 				<tr>
+		 					<th><span>Baritone Overhaul</span></th>
+		 					<th></th>
+		 				</tr>
+		 			</thead>
+		 			<tbody>
+		 				<tr>
+		 					<td><span>Full 3 Valve</span></td>
+		 					<td>$600</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Econo 4 Valve</span></td>
+		 					<td>$700</td>
+		 				</tr>
+		 			</tbody>
+		 		</table>
+		 	</div>
+		 	<div class="half">
+		 		<table>
+		 			<thead>
+		 				<tr>
+		 					<th><span>Euphonium Overhaul</span></th>
+		 					<th></th>
+		 				</tr>
+		 			</thead>
+		 			<tbody>
+		 				<tr>
+		 					<td><span>Full</span></td>
+		 					<td>$700</td>
+		 				</tr>
+		 				<tr>
+		 					<td><span>Econo</span></td>
+		 					<td>$500</td>
+		 				</tr>
+		 			</tbody>
+		 		</table>
+		 	</div>
+		</div>
 
- 		<table class="half">
- 			<thead>
- 				<tr>
- 					<th><span>French Horn Overhaul</span></th>
- 					<th></th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Single</span></td>
- 					<td>$600</td>
- 				</tr>
- 				<tr>
- 					<td><span>Double</span></td>
- 					<td>$850</td>
- 				</tr>
- 				<tr>
- 					<td><span>Econo Single</span></td>
- 					<td>$350</td>
- 				</tr>
- 				<tr>
- 					<td><span>Econo Double</span></td>
- 					<td>$500</td>
- 				</tr>
- 			</tbody>
- 		</table>
 
- 		<table class="half">
- 			<thead>
- 				<tr>
- 					<th><span>Trombone Overhaul</span></th>
- 					<th></th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Student</span></td>
- 					<td>$350</td>
- 				</tr>
- 				<tr>
- 					<td><span>Econo</span></td>
- 					<td>$225</td>
- 				</tr>
- 				<tr>
- 					<td><span>Professional</span></td>
- 					<td>$350</td>
- 				</tr>
- 				<tr>
- 					<td><span>Slide Only Student</span></td>
- 					<td>$60</td>
- 				</tr>
- 				<tr>
- 					<td><span>Slide Only Professional</span></td>
- 					<td>$85</td>
- 				</tr>
- 			</tbody>
- 		</table>
-
- 		<table class="half">
- 			<thead>
- 				<tr>
- 					<th><span>Tuba Overhaul</span></th>
- 					<th></th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Fiberglass</span></td>
- 					<td>$690</td>
- 				</tr>
- 				<tr>
- 					<td><span>Sousa Disassemble / Dents</span></td>
- 					<td>$550</td>
- 				</tr>
- 				<tr>
- 					<td><span>Bell Overhaul Full</span></td>
- 					<td>$350</td>
- 				</tr>
- 				<tr>
- 					<td><span>Bell Econo</span></td>
- 					<td>$225</td>
- 				</tr>
- 				<tr>
- 					<td><span>Dents Only</span></td>
- 					<td>$125</td>
- 				</tr>
- 			</tbody>
- 		</table>
-
- 		<table class="half">
- 			<thead>
- 				<tr>
- 					<th><span>Baritone Overhaul</span></th>
- 					<th></th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Full 3 Valve</span></td>
- 					<td>$600</td>
- 				</tr>
- 				<tr>
- 					<td><span>Econo 4 Valve</span></td>
- 					<td>$700</td>
- 				</tr>
- 			</tbody>
- 		</table>
-
- 		<table class="half">
- 			<thead>
- 				<tr>
- 					<th><span>Euphonium Overhaul</span></th>
- 					<th></th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Full</span></td>
- 					<td>$700</td>
- 				</tr>
- 				<tr>
- 					<td><span>Econo</span></td>
- 					<td>$500</td>
- 				</tr>
- 			</tbody>
- 		</table>
- 		<p class="note">Acid Bath includes complete disassemble, free slides and caps, clean inside of instrument with brass brushes, replace felts and corks, reassemble, lube and oil.</p>
+ 		<p class="note">Acid Bath includes complete disassemble, free slides and caps, clean inside of instrument with brass brushes,
+ 		<br />replace felts and corks, reassemble, lube and oil.</p>
  		<p class="note">Econo Overhaul: same as Full with the exception that small dents/scratches not removed.</p>
  		<p class="note">Prices are for normal repair work.  Dent work and Valve Plating done only upon inspection. </p>
 
@@ -658,7 +674,8 @@
  				</tr>
  			</tbody>
  		</table>
- 		<p class="note">Repad: includes complete disassemble; clean all parts; replace all key corks (Neck corks on saxes); treat wooden instruments with oil; replace all pads; adjust and test; clean case and mouthpiece.</p>
+ 		<p class="note">Repad: includes complete disassemble; clean all parts; replace all key corks (Neck corks on saxes);
+ 		<br />treat wooden instruments with oil; replace all pads; adjust and test; clean case and mouthpiece.</p>
  		<p class="note">Prices are for normal repair work.  Estimates must be given on specific work. Prices are subject to change without notice.</p>
 	</div>
 </div>
