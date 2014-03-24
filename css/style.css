@@ -837,3 +837,27 @@ p.note{
 			float: right;
 			clear: both;
 		}
+
+/*
+@media all and (max-width: 1023px) {
+	.container{
+		max-width: 768px;
+	}
+}
+@media all and (max-width: 767px) {
+	.container{
+		max-width: 500px;
+	}
+
+}
+@media all and (max-width: 500px) {
+	.container{
+		max-width: 320px;
+	}
+	header h3{
+		font-size: .8rem;
+	}
+	nav ul.nav>li{
+		display: block;
+	}
+}*/
