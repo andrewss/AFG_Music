@@ -700,6 +700,11 @@ p.note{
 
 /* Rentals CSS End*/
 
+/* Repair Pge CSS */
+.repairs .tagline{
+	text-align: center;
+}
+
 /*About page CSS start*/
 .about{
 	text-align: center;
