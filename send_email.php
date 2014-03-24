@@ -30,7 +30,7 @@ if($valid === 1){
     Message: 
     "; 
     $msg .= wordwrap($message, 70);
-    mail("atetnowski@gmail.com",$subject,$message,"From: $from\n");
+    mail("atetnowski@gmail.com",$subject,$msg,"From: $from\n");
 
     header('location: contact.php');
 } else {
