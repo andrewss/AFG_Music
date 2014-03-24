@@ -839,25 +839,57 @@ p.note{
 		}
 
 
-@media all and (max-width: 1023px) {
-	.container{
-		width: 768px;
-	}
+@media all and (max-device-width: 1023px) {
 }
-@media all and (max-width: 767px) {
-	.container{
-		width: 500px;
-	}
+@media all and (max-device-width: 767px) {
 
 }
-@media all and (max-width: 500px) {
-	.container{
-		width: 320px;
-	}
+@media all and (max-device-width: 500px) {
+	/* Index Page CSS Start*/
 	header h3{
 		font-size: .8rem;
 	}
 	nav ul.nav>li{
 		display: block;
+		padding: 7px 0;
 	}
+	.hero{
+		display: none;
+	}
+	.services .single_service{
+		width: 100%;
+		max-width: 100%;
+		display: block;
+	}
+	.services .single_service.repair .details_btn{
+		top: 350px;
+	}
+	.services .single_service.rental{
+		margin-bottom: 40px
+	}
+	.services .single_service.rental .details_btn{
+		top: 400px;
+	}
+	.about_us img{
+		margin: 0 auto;
+	}
+	.about_us .text_container{
+		width: 100%;
+
+	}
+	.about_us h2, .about_us p{
+		padding: 0 20px;
+	}
+	.friends ul li {
+		padding: 0;
+		display: block;
+		width: 100%;
+	}
+		.friends ul li+li{
+			padding-top: 40px;
+		}
+	nav ul.nav>li:hover>a+ul{
+		display: none;
+	}
+	/* Index Page CSS End*/
 }
