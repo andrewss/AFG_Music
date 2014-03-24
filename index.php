@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=device-width">
 <title>AFG Music</title>
 
 <link rel="stylesheet" type="text/css" href="css/reset.css">
