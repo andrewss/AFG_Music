@@ -141,87 +141,153 @@
  				</tr>
  			</tbody>
  		</table>
- 		<p class="note">Prices are subject to change without notice and are subject to availability.</p>
- 		<p class="note">Prices are subject to change without notice and are subject to availability.</p>
- 		<p class="note">Prices are subject to change without notice and are subject to availability.</p>
+ 		<p class="note">Shop Adjust: Bridge, light clean, general adjustment, set sound post, adjust fine tuners, adjust tail gut.</p>
+ 		<p class="note">Labor includes parts fitted to instrument.</p>
+ 		<p class="note">Cracks and rib separations by estimate only.</p>
  		<table>
  			<thead>
  				<tr>
- 					<th><span>Instrument</span></th>
- 					<th>Rental (Used)</th>
- 					<th>Rental (New)</th>
- 					<th>Lease (New)</th>
+ 					<th><span>Brass Instruments</span></th>
+ 					<th>Trumpet</th>
+ 					<th>French Horn</th>
+ 					<th>Trombone</th>
+ 					<th>Baritone</th>
+ 					<th>Tuba</th>
  				</tr>
  			</thead>
  			<tbody>
  				<tr>
- 					<td><span>Oboe</span></td>
- 					<td>$40</td>
+ 					<td><span>Acid Bath (Student)</span></td>
+ 					<td>$45</td>
  					<td>$70</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trumpet</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trumpet</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$54 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trombone</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trombone</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$50 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>French Horn</span></td>
- 					<td>$55</td>
- 					<td>--</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Violin</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Viola</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Cello</span></td>
- 					<td>$45</td>
- 					<td>$68</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>String Bass</span></td>
  					<td>$60</td>
- 					<td> -- </td>
- 					<td>* Special Order *</td>
+ 					<td>$60</td>
+ 					<td>$85</td>
  				</tr>
  				<tr>
- 					<td><span>Guitar</span></td>
- 					<td>$23</td>
- 					<td>$35</td>
- 					<td>* Special Order *</td>
+ 					<td><span>Acid Bath (Professional)</span></td>
+ 					<td>$55</td>
+ 					<td>$90</td>
+ 					<td>--</td>
+ 					<td>$75</td>
+ 					<td>$85</td>
  				</tr>
+ 				<tr>
+ 					<td><span>4 Valvs Rotor</span></td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>$95</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Valve Repair (Port)</span></td>
+ 					<td>$20</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>$20</td>
+ 					<td>--</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Valve bumper(per Valve)</span></td>
+ 					<td>--</td>
+ 					<td>$5</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Solder Joints</span></td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$12</td>
+ 					<td>$15</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Silver Solder</span></td>
+ 					<td>$15</td>
+ 					<td>$15</td>
+ 					<td>$15</td>
+ 					<td>$15</td>
+ 					<td>$15</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Spot Lacquer</span></td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Water Key corks</span></td>
+ 					<td>$2</td>
+ 					<td>$2</td>
+ 					<td>$2</td>
+ 					<td>$2</td>
+ 					<td>$2</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Water Key Springs</span></td>
+ 					<td>$7</td>
+ 					<td>$7</td>
+ 					<td>$7</td>
+ 					<td>$7</td>
+ 					<td>$7</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Brass Patches</span></td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Pull Mouthpiece</span></td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 					<td>$5</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Restring per valve</span></td>
+ 					<td>--</td>
+ 					<td>$5</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Valve Corks (neoprene)</span></td>
+ 					<td>--</td>
+ 					<td>$5</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>--</td> 				
+ 				</tr>
+ 				<tr>
+ 					<td><span>Lap Valves</span></td>
+ 					<td>$20</td>
+ 					<td>$20</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Mouthpiece Plating</span></td>
+ 					<td>$30</td>
+ 					<td>$30</td>
+ 					<td>$35</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
 
- 				<table>
+ 		<table>
  			<thead>
  				<tr>
  					<th><span>Instrument</span></th>

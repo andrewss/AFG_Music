@@ -46,53 +46,27 @@
 	</div>
 </nav>
 
-<div class="teachers">
+<div class="resume">
 	<div class="container">
-		<h1 class="page_title">Lessons</h1>
-		<p class="tagline">At AFG Music, we are all about teaching music.  We take students of all ages and skill levels, and we teach a large variety of band and orchestra instruments here.</p>
-		<ul>
-			<li class="teacher">
-				<img src="img/fred_gillett.jpg">
-				<div class="text">
-					<h2>Fred Gillett</h2>
-					<h4>Guitar, Bass, Violin, Mandolin, and Banjo</h4>
-					<p class="bio fred">Fred is the owner of AFG music and has spent his life performing and teaching music.  He is a great instructor with lots of patience.</p>
-					<a href="fred_gillett.php">View Resume &raquo;</a>
-				</div>
-			</li>
-
-			<li class="teacher">
-				<img src="img/anita_gillett.jpg">
-				<div class="text">
-					<h2>Anita Gillett</h2>
-					<h4>Cello, Violin, Piano.</h4>
-					<p class="bio fred">Anita teaches these instruments and is an excellent instructor.</p>
-					<a href="#">View Resume &raquo;</a>
-				</div>
-			</li>
-
-			<li class="teacher">
-				<img src="img/jon_lundgren.jpg">
-				<div class="text">
-					<h2>Jon Lundgren</h2>
-					<h4>Drums, Percussion, Piano, Keyboard, and most band instruments. </h4>
-					<p class="bio fred">Jon is an excellent instructor on a wide variety of instruments from drums to horns to keyboards.</p>
-					<a href="#">View Resume &raquo;</a>
-				</div>
-			</li>
-
-			<li class="teacher">
-				<img src="img/ron_kobayashi.jpg">
-				<div class="text">
-					<h2>Ron Kobayashi</h2>
-					<h4>Piano and Keyboards</h4>
-					<p class="bio fred">Ron is an excellent musician and composer as well as an excellent instructor.</p>
-					<a href="#">View Resume &raquo;</a>
-				</div>
-			</li>
-		</ul>
-
-		<p class="note">The standard lesson plan at AFG Music is one half hour per week at a cost of $95 per month.  Individual plans can be arranged with the instructors to meet the needs of the students.</p>
+		<img src="img/anita_gillett.jpg" align="right">
+		<h1 class="name fred">Anita Gillett</h1>
+		<h3>Instruments</h3>
+		<p>Cello, Violin, Piano</p>
+		<h3>Education and Training</h3>
+		<p><span class="emph">High School -</span> Newport Harbor High School
+ 			<br><br>
+			<span class="emph">Associate Degree (Fine Arts) -</span> Orange Coast College
+ 			<br><br>
+			<span class="emph">2 Years (Music Education) -</span> University of California, Irvine
+ 			<br><br>
+			<span class="emph">Private Instruction (approx 10 yrs) -</span> Frieda Belinfante, Alayne Armstrong, Alberto Bolet, Dr. Peter Odegard, Dr. Maurice Allard
+		</p>
+		<h3>Performance Experience</h3>
+		<p>Anita has played for Henry Mancini, President and Mrs. Ford, Michael J. Fox, Bob & Delores Hope, Jack Jones, Sonny Bono, Senator Robert Dole, Bill Medley, Chris Riddle of Nelson Riddle Orchestra, Carmen Dragon, Alberto Bolet, Joseph Pearlman, Orange Coast College Symphony Orchestra, UCI Symphony, Glendale Symphony, Melodyland, Orange County Symphony, Desert Symphony, Orange County Performing Arts Center, Recording studios, TV and Motion Picture dates.  Anita has played most every major hotel, yacht/country club, Convention Center in Southern California.</p>
+		<h3>Teaching Experience</h3>
+		<p>25 years in the Orange County Area.  Anita is accepted as qualified by local Colleges & Universities.</p>
+		<h3>Comments</h3>
+		<p>Anita is an excellent teacher and a fine musician.  Her education and performance experience coupled with his desire to help young people of all ages, is a sure formula for success.  Anita has such a pleasant and easy style, she can coach and encourage even the most difficult of students.  Her reputation is widely known throughout the Orange County Area. </p>
 	</div>
 </div>
 

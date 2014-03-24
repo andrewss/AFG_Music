@@ -29,10 +29,10 @@
 			<li>
 				<a href="lessons.php">Lessons<i class="fa fa-angle-down"></i></a>
 				<ul>
-					<li><a href="#">Fred Gillett</a></li>
-					<li><a href="#">Anita Gillett</a></li>
-					<li><a href="#">Jon Lundgren</a></li>
-					<li><a href="#">Ron Kobayashi</a></li>
+					<li><a href="fred_gillett.php">Fred Gillett</a></li>
+					<li><a href="anita_gillett.php">Anita Gillett</a></li>
+					<li><a href="jon_lundgren.php">Jon Lundgren</a></li>
+					<li><a href="ron_kobayashi.php">Ron Kobayashi</a></li>
 				</ul>
 			</li>
 			<li><a href="sunset_strings.php">Sunset Strings</a></li>
@@ -69,7 +69,7 @@
 				<li>Percussion</li>
 				<li>Band Instruments</li>
 			</ul>
-			<a href="#" class="details_btn">Details</a>
+			<a href="lessons.php" class="details_btn">Details</a>
 		</div>
 
 		<div class="single_service repair">
@@ -83,7 +83,7 @@
 				<li>Brass Instruments</li>
 				<li>Reed Instruments</li>
 			</ul>
-			<a href="#" class="details_btn">Details</a>
+			<a href="repairs.php" class="details_btn">Details</a>
 		</div>
 
 		<div class="single_service rental">
@@ -93,7 +93,7 @@
 			<h5>Rental</h5>
 			<h6>We rent and lease various musical instruments.  We have great programs for band students.</h6>
 			<p>Instrument rental is an ideal way for band students and beginning students to begin learning an instrument without making an expensive investment.</p>
-			<a href="#" class="details_btn">Details</a>
+			<a href="rentals.php" class="details_btn">Details</a>
 		</div>
 	</div>
 </div>
@@ -115,13 +115,13 @@
 		<h3>Our Friends</h3>
 		<ul>
 			<li>
-				<a href="#">
+				<a href="http://newportharborhsmusic.wix.com/nhhs">
 					<img src="img/nhhsm.jpg">
 					<span>Newport Harbor High School Music</span>
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="http://www.desertsymphony.org/">
 					<img src="img/ds.jpg">
 					<span>Desert Symphony</span>
 				</a>
