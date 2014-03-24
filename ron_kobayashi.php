@@ -47,17 +47,18 @@
 
 <div class="resume">
 	<div class="container">
-		<img src="img/ron_kobayashi.jpg" align="right">
-		<h1 class="name fred">Ron Kobayashi</h1>
-		<h3>Instruments</h3>
-		<p>Piano and Keyboards</p>
+		<div class="resume_title">
+			<h1 class="name fred">Ron Kobayashi</h1>
+			<p>Piano and Keyboards</p>
+		</div>
+		<div class="resume_img">
+			<span><img src="img/ron_kobayashi.jpg" /></span>
+		</div>
+
 		<h3>Education and Training</h3>
-		<p><span class="emph">High School -</span> Buena Park High School
- 			<br><br>
-			<span class="emph">Bachelor Degree -</span> Fine Arts at University of California  State, Fullerton
- 			<br><br>
-			<span class="emph">Private Instruction -</span> 15 Years
-		</p>
+		<p><span class="emph">High School -</span> Buena Park High School</p>
+		<p><span class="emph">Bachelor Degree -</span> Fine Arts at University of California  State, Fullerton</p>
+		<p><span class="emph">Private Instruction -</span> 15 Years</p>
 		<h3>Performance Experience</h3>
 		<p>Ron is not only a pianist but also a composer, and has performed in many musical settings.  He has performed with Mel Torme, Margaret Whiting, Herb Jefferies, Jerry VanDyke, Tim WeisbergEric Marienthal, Peter White, Kenny Burrell, Bill Watrous, Teddy Edwards, Pete Christleib, Patrick Moraz, Slim Man, Steve Reid, Ray Brewster’s Cadillacs Paula Kelly Jr. and the Modernairs.  Additionally, Rone and his band have shared the stage with David Sanborn, the rock group “Berlin”, Eddie Palmieri, David Benoit, Cirque Du Soleil, Strunz and Farah, and the Fabulous Thunderbirds.  Ron also has a CD called “Exotic Places“, and was highly publicized by the Orange County Register as “a bracing breath of fresh air”.  The Los Angeles Times  has said the Ron’s compositions “demand attention and get it”.  Ron and his band were voted “Best Jazz Group in Orange County”, by the Orange County Weekly Magazine.  He was also featured on the “CBS Evening News with Dan Rather”, and worked on the ABC Television Series “Call to Glory”  Ron has also performed for President Bill Clinton.  Finally, Ron was honored by the Asian Business Association of Orange County as “A role Model and Inspiration for Asians in the Field of Music”. </p>
 		<h3>Teaching Experience</h3>

@@ -47,10 +47,14 @@
 
 <div class="resume">
 	<div class="container">
-		<img src="img/anita_gillett.jpg" align="right">
-		<h1 class="name fred">Anita Gillett</h1>
-		<h3>Instruments</h3>
-		<p>Cello, Violin, Piano</p>
+		<div class="resume_title">
+			<h1 class="name fred">Anita Gillett</h1>
+			<p>Cello, Violin, Piano</p>
+		</div>
+		<div class="resume_img">
+			<span><img src="img/anita_gillett.jpg" /></span>
+		</div>
+
 		<h3>Education and Training</h3>
 		<p><span class="emph">High School -</span> Newport Harbor High School
  			<br><br>

@@ -18,6 +18,7 @@ nav{
 .container{
 	max-width: 1024px;
 	margin: 0 auto;
+	position: relative;
 }
 footer{
 	background-color: #2c2c2c;
@@ -499,7 +500,36 @@ p.note{
 
 /*Resume CSS start*/
 .resume{
+	margin-bottom: 50px;
+}
 
+.resume .resume_title {
+	margin-top: 50px;
+}
+
+.resume .resume_img {
+	width: 120px;
+	height: 120px;
+	overflow: hidden;
+	position: absolute;
+	top: -20px;
+	right: 0px;
+}
+
+.resume .resume_img span {
+	display: block;
+	width: 160px;
+	height: 100%;
+	position: absolute;
+	left: 50%;
+	margin-left: -80px;
+	text-align: center;
+}
+
+.resume .resume_img img {
+	height: 100%;
+	display: block;
+	margin: auto;
 }
 	.resume h1.name{
 		font-family: 'Roboto', sans-serif;
@@ -510,28 +540,10 @@ p.note{
 		padding-bottom: 2px;
 		
 	}
-	.resume h3{
-		font-family: 'Roboto', sans-serif;
-		color: #292929;
-		margin: 0 auto;
-		font-size: 19px;
-		font-weight: 400;
-		margin-bottom: 10px;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #e1e1e1;
-	}
-	.resume p{
+	.resume p span.emph{
+		font-weight: 700;
 		color: #575757;
-		font-family: 'Open Sans', sans-serif;
-		font-size: 17px;
-		line-height: 26px;
-		font-weight: 400;
-		margin-bottom: 20px
 	}
-		.resume p span.emph{
-			font-weight: 700;
-			color: #575757;
-		}
 
 
 /* Sunset Strings CSS Start*/

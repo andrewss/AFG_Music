@@ -47,10 +47,14 @@
 
 <div class="resume">
 	<div class="container">
-		<img src="img/fred_gillett.jpg" align="right">
-		<h1 class="name fred">Fred Gillett</h1>
-		<h3>Instruments</h3>
-		<p>Guitar, Violin, Bass, Mandolin, Banjo</p>
+		<div class="resume_title">
+			<h1 class="name fred">Fred Gillett</h1>
+			<p>Guitar, Violin, Bass, Mandolin, Banjo</p>
+		</div>
+		<div class="resume_img">
+			<span><img src="img/fred_gillett_small.jpg" /></span>
+		</div>
+
 		<h3>Education and Training</h3>
 		<p><span class="emph">High School -</span> Newport Harbor High School
  			<br><br>
