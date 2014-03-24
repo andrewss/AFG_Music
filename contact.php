@@ -17,7 +17,7 @@
 <body>
 <?php
 
-if(isset($_POST['fail'])){
+if(isset($_GET['fail'])){
 	echo'<script>alert("An error occured while trying to send your message. Please try to resend it later.");</script>';
 }
 ?>
