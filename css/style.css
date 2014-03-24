@@ -891,5 +891,8 @@ p.note{
 	nav ul.nav>li:hover>a+ul{
 		display: none;
 	}
+	nav ul.nav>li>a>.fa{
+		display: none;
+	}
 	/* Index Page CSS End*/
 }
