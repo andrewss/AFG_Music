@@ -177,9 +177,8 @@
 			<li><a href="performances.php">Performances</a></li>
 			<li><a href="rentals.php">Rentals</a></li>
 			<li><a href="repairs.php">Repairs</a></li>
-			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">Site Map</a></li>
-			<li><a href="#">About Us</a></li>
+			<li><a href="contact.php">Contact Us</a></li>
+			<li><a href="about.php">About Us</a></li>
 		</ul>
 		<p>AFG Music &copy; Copyright <?php echo date("Y")?></p>
 	</div>
