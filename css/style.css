@@ -747,6 +747,7 @@ p.note{
 			}
 	.contact form{
 		margin-top: 40px;
+		overflow: hidden;
 		
 	}
 		.contact form .input_container{
@@ -812,3 +813,22 @@ p.note{
 				border: #575757 1px solid;
 				background-color: #FCFCFC;
 			}
+		.contact form button{
+			font-family: 'Roboto', sans-serif;
+			font-size: 17px;
+			font-weight: 400;
+			color: #ffffff;
+			text-decoration: none;
+			background-color: #be4156;
+			-webkit-border-radius: 5px;
+			-moz-border-radius: 5px;
+			border-radius: 5px;
+			padding: 10px 0;
+			display: inline-block;
+			border: 0;
+			width: 240px;
+			margin-top: 12px;
+			cursor: pointer;
+			float: right;
+			clear: both;
+		}
