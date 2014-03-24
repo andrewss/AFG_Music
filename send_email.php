@@ -13,9 +13,6 @@ if(strlen($fname) < 1 || strlen($fname) > 30 ){
 if(strlen($lname) < 1 || strlen($lname) > 30){
 	$valid = 0;
 }
-if(strlen($phone) < 1 || strlen($phone) > 30){
-	$valid = 0;
-}
 if(!filter_var($email, FILTER_VALIDATE_EMAIL)){
 	$valid = 0;
 }
@@ -27,7 +24,12 @@ if(strlen($message) < 1){
 if($valid === 1){
 	$from = $fname . " " . $lname; // sender
     $subject = "AFG-Music.com email from: " . $fname . " " . $lname;
-    $message = wordwrap($message, 70);
+    $msg = "Name: " . $fname . " " . $lname . "
+    Email: " . $email . "
+    Phone: " . $phone . "
+    Message: 
+    "; 
+    $msg .= wordwrap($message, 70);
     mail("atetnowski@gmail.com",$subject,$message,"From: $from\n");
 
     header('location: contact.php');
