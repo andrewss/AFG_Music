@@ -90,9 +90,6 @@
 	</div>
 </footer>
 <script>
-$(function(){
-});
-
 function playMusic(newSong){
 	var audio = document.getElementById("audio");
 	audio.src = 'music/' + newSong;
