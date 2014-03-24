@@ -29,10 +29,10 @@
 			<li>
 				<a href="lessons.php">Lessons<i class="fa fa-angle-down"></i></a>
 				<ul>
-					<li><a href="#">Fred Gillett</a></li>
-					<li><a href="#">Anita Gillett</a></li>
-					<li><a href="#">Jon Lundgren</a></li>
-					<li><a href="#">Ron Kobayashi</a></li>
+					<li><a href="fred_gillett.php">Fred Gillett</a></li>
+					<li><a href="anita_gillett.php">Anita Gillett</a></li>
+					<li><a href="jon_lundgren.php">Jon Lundgren</a></li>
+					<li><a href="ron_kobayashi.php">Ron Kobayashi</a></li>
 				</ul>
 			</li>
 			<li><a href="sunset_strings.php">Sunset Strings</a></li>

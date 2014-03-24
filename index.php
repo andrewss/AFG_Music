@@ -115,13 +115,13 @@
 		<h3>Our Friends</h3>
 		<ul>
 			<li>
-				<a href="http://newportharborhsmusic.wix.com/nhhs">
+				<a target="_blank" href="http://newportharborhsmusic.wix.com/nhhs">
 					<img src="img/nhhsm.jpg">
 					<span>Newport Harbor High School Music</span>
 				</a>
 			</li>
 			<li>
-				<a href="http://www.desertsymphony.org/">
+				<a target="_blank" href="http://www.desertsymphony.org/">
 					<img src="img/ds.jpg">
 					<span>Desert Symphony</span>
 				</a>
@@ -133,12 +133,12 @@
 <footer>
 	<div class="container">
 		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">Lessons</a></li>
-			<li><a href="#">Sunset Strings</a></li>
-			<li><a href="#">Preformances</a></li>
-			<li><a href="#">Rentals</a></li>
-			<li><a href="#">Repairs</a></li>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="lessons.php">Lessons</a></li>
+			<li><a href="sunset_strings.php">Sunset Strings</a></li>
+			<li><a href="performances.php">Performances</a></li>
+			<li><a href="rentals.php">Rentals</a></li>
+			<li><a href="repairs.php">Repairs</a></li>
 			<li><a href="#">Contact Us</a></li>
 			<li><a href="#">Site Map</a></li>
 			<li><a href="#">About Us</a></li>

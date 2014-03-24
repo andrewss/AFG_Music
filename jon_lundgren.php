@@ -29,19 +29,18 @@
 			<li>
 				<a href="lessons.php">Lessons<i class="fa fa-angle-down"></i></a>
 				<ul>
-					<li><a href="#">Fred Gillett</a></li>
-					<li><a href="#">Anita Gillett</a></li>
-					<li><a href="#">Jon Lundgren</a></li>
-					<li><a href="#">Ron Kobayashi</a></li>
+					<li><a href="fred_gillett.php">Fred Gillett</a></li>
+					<li><a href="anita_gillett.php">Anita Gillett</a></li>
+					<li><a href="jon_lundgren.php">Jon Lundgren</a></li>
+					<li><a href="ron_kobayashi.php">Ron Kobayashi</a></li>
 				</ul>
 			</li>
-			<li><a href="#">Sunset Strings</a></li>
-			<li><a href="#">Performances</a></li>
-			<li><a href="#">Rentals</a></li>
-			<li><a href="#">Repairs</a></li>
-			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">Site Map</a></li>
-			<li><a href="#">About Us</a></li>
+			<li><a href="sunset_strings.php">Sunset Strings</a></li>
+			<li><a href="performances.php">Performances</a></li>
+			<li><a href="rentals.php">Rentals</a></li>
+			<li><a href="repairs.php">Repairs</a></li>
+			<li><a href="contact.php">Contact Us</a></li>
+			<li><a href="about.php">About Us</a></li>
 		</ul>
 	</div>
 </nav>
@@ -57,9 +56,9 @@
  			<br><br>
 			<span class="emph">Associate Degree (Fine Arts) -</span> Fullerton Community College
  			<br><br>
-			<span class="emph">2 Years (Music Education) -</span> Cal-State Univ, Fullerton
+			<span class="emph">Bachelor Degree (Music Arts)  -</span> Cal-State Univ, Fullerton
  			<br><br>
-			<span class="emph">Private Instruction (approx 10 yrs) -</span> Todd Miller, Poncho Sanchez, Roy Burns
+			<span class="emph">Private Instruction -</span> Todd Miller, Poncho Sanchez, Roy Burns
  			<br><br>
 			<span class="emph">Mr. Lundgren has also graduated from the Regional Occupational Program Course in Instrument Repair.
 		</p>

@@ -29,19 +29,18 @@
 			<li>
 				<a href="lessons.php">Lessons<i class="fa fa-angle-down"></i></a>
 				<ul>
-					<li><a href="#">Fred Gillett</a></li>
-					<li><a href="#">Anita Gillett</a></li>
-					<li><a href="#">Jon Lundgren</a></li>
-					<li><a href="#">Ron Kobayashi</a></li>
+					<li><a href="fred_gillett.php">Fred Gillett</a></li>
+					<li><a href="anita_gillett.php">Anita Gillett</a></li>
+					<li><a href="jon_lundgren.php">Jon Lundgren</a></li>
+					<li><a href="ron_kobayashi.php">Ron Kobayashi</a></li>
 				</ul>
 			</li>
-			<li><a href="#">Sunset Strings</a></li>
-			<li><a href="#">Performances</a></li>
-			<li><a href="#">Rentals</a></li>
-			<li><a href="#">Repairs</a></li>
-			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">Site Map</a></li>
-			<li><a href="#">About Us</a></li>
+			<li><a href="sunset_strings.php">Sunset Strings</a></li>
+			<li><a href="performances.php">Performances</a></li>
+			<li><a href="rentals.php">Rentals</a></li>
+			<li><a href="repairs.php">Repairs</a></li>
+			<li><a href="contact.php">Contact Us</a></li>
+			<li><a href="about.php">About Us</a></li>
 		</ul>
 	</div>
 </nav>
@@ -59,7 +58,7 @@
  			<br><br>
 			<span class="emph">Bachelor Degree (Music Education) -</span> Cal-State Univ, Fullerton
  			<br><br>
-			<span class="emph">Private Instruction (approx 22 yrs) -</span> Simon Plas, Darrell Mann, Hyman Shulman, Bill Kurasch, Joachim Chassman, Kenneth Goldsmith, Billy Fender, Aaron Shearer.
+			<span class="emph">Private Instruction (Approx 10 yrs) -</span> Simon Plas, Darrell Mann, Hyman Shulman, Bill Kurasch, Joachim Chassman, Kenneth Goldsmith, Billy Fender, Aaron Shearer.
 		</p>
 		<h3>Performance Experience</h3>
 		<p>Fred has played with/for President & Mrs. Gerald Ford, Senator Robert Dole, Walter& Lenore Annenberg, Sonny Bono, Toni Tennille, Danny Thomas, Angie Dickenson, Jack Jones, Hal Linden, Janet Leigh, Roddy McDowell, Anne Murray, Cesar Romero, Engelbert Humperdink, Bobby Goldsboro, Debbie Reynolds, Andy Williams, Billy Strange, Wayne Newton, Doug Kershaw, Loretta Lynn, Ed Ames, Supremes, Bill Medley, Anna-Maria Alberghetti, Skiles & Henderson, Richard Harris, John Denver, Si Zentner, Carmen Dragon, Carol Lawrence, Bob & Delores Hope, Tony Bennett, Pat Boone, Nelson Riddle, Henry & Monica Mancini, George Benson, Edgar Bergen, Johnny Carson, Vikki Carr, Glen Campbell, Sarah Vaughn, Henry Brandon, Giorgio Tozzi, Dick VanDyke, Lyric Opera Assn of O.C., American Light Opera Company, White House, U.S. State Dept, American Cinema Awards Foundation, Disneyland, Knott's Berry Farm, Anaheim Convention Center, Crazy Horse, Melodyland, Baltimore Symphony, Roanoke Symphony, Norfolk Symphony, Richmond Symphony, Orange County Symphony, Pacific Symphony, UCI Chamber Symphony, South Coast Ballet, Irvine Symphony Orchestra, Desert Symphony, O.C. Performing Arts Center, Long Beach Grand Opera, Long Beach Symphony, Recording studios, TV and Motion Picture dates.  Fred Has played most every major Hotel, Yacht Club, Country Club, and Convention Center in Southern California.</p>
