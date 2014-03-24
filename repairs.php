@@ -287,81 +287,311 @@
  			</tbody>
  		</table>
 
- 		<table>
+ 		<table class="half">
  			<thead>
  				<tr>
- 					<th><span>Instrument</span></th>
- 					<th>Rental (Used)</th>
- 					<th>Rental (New)</th>
- 					<th>Lease (New)</th>
+ 					<th><span>Trumpet Overhaul</span></th>
+ 					<th></th>
  				</tr>
  			</thead>
  			<tbody>
  				<tr>
- 					<td><span>Oboe</span></td>
- 					<td>$40</td>
- 					<td>$70</td>
- 					<td>* Special Order *</td>
+ 					<td><span>Lacquer</span></td>
+ 					<td>$350</td>
  				</tr>
  				<tr>
- 					<td><span>Trumpet</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
+ 					<td><span>Econo</span></td>
+ 					<td>$225</td>
  				</tr>
  				<tr>
- 					<td><span>Silver Trumpet</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$54 @ 24 Months</td>
+ 					<td><span>Silver Pl</span></td>
+ 					<td>$435</td>
  				</tr>
  				<tr>
- 					<td><span>Trombone</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
+ 					<td><span>Proffsnl Add</span></td>
+ 					<td>$5</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+
+ 		<table class="half">
+ 			<thead>
+ 				<tr>
+ 					<th><span>French Horn Overhaul</span></th>
+ 					<th></th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Single</span></td>
+ 					<td>$600</td>
  				</tr>
  				<tr>
- 					<td><span>Silver Trombone</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$50 @ 24 Months</td>
+ 					<td><span>Double</span></td>
+ 					<td>$850</td>
  				</tr>
  				<tr>
- 					<td><span>French Horn</span></td>
+ 					<td><span>Econo Single</span></td>
+ 					<td>$350</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Econo Double</span></td>
+ 					<td>$500</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+
+ 		<table class="half">
+ 			<thead>
+ 				<tr>
+ 					<th><span>Trombone Overhaul</span></th>
+ 					<th></th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Student</span></td>
+ 					<td>$350</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Econo</span></td>
+ 					<td>$225</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Professional</span></td>
+ 					<td>$350</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Slide Only Student</span></td>
+ 					<td>$60</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Slide Only Professional</span></td>
+ 					<td>$85</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+
+ 		<table class="half">
+ 			<thead>
+ 				<tr>
+ 					<th><span>Tuba Overhaul</span></th>
+ 					<th></th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Fiberglass</span></td>
+ 					<td>$690</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Sousa Disassemble / Dents</span></td>
+ 					<td>$550</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Bell Overhaul Full</span></td>
+ 					<td>$350</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Bell Econo</span></td>
+ 					<td>$225</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Dents Only</span></td>
+ 					<td>$125</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+
+ 		<table class="half">
+ 			<thead>
+ 				<tr>
+ 					<th><span>Baritone Overhaul</span></th>
+ 					<th></th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Full 3 Valve</span></td>
+ 					<td>$600</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Econo 4 Valve</span></td>
+ 					<td>$700</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+
+ 		<table class="half">
+ 			<thead>
+ 				<tr>
+ 					<th><span>Euphonium Overhaul</span></th>
+ 					<th></th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Full</span></td>
+ 					<td>$700</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Econo</span></td>
+ 					<td>$500</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+ 		<p class="note">Acid Bath includes complete disassemble, free slides and caps, clean inside of instrument with brass brushes, replace felts and corks, reassemble, lube and oil.</p>
+ 		<p class="note">Econo Overhaul: same as Full with the exception that small dents/scratches not removed.</p>
+ 		<p class="note">Prices are for normal repair work.  Dent work and Valve Plating done only upon inspection. </p>
+
+
+
+
+ 		<table>
+ 			<thead>
+ 				<tr>
+ 					<th><span>Reeds</span></th>
+ 					<th>Clarinet</th>
+ 					<th>Flute</th>
+ 					<th>Piccolo</th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Leak Test, Regulate Action</span></td>
+ 					<td>$30</td>
+ 					<td>$30</td>
+ 					<td>$30</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Repads: Student (plastic)</span></td>
+ 					<td>$140</td>
+ 					<td>$140</td>
+ 					<td>$140</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Repads: Professional (Wood)</span></td>
+ 					<td>$175</td>
+ 					<td>$165</td>
+ 					<td>$220</td>
+ 				</tr>
+
+ 				<tr>
+ 					<td><span>Buff Keys (add)</span></td>
  					<td>$55</td>
  					<td>--</td>
- 					<td>* Special Order *</td>
+ 					<td>--</td>
  				</tr>
+
  				<tr>
- 					<td><span>Violin</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 24 Months</td>
+ 					<td><span>Tenon Corks (Head cork)</span></td>
+ 					<td>$12</td>
+ 					<td>$12</td>
+ 					<td>$12</td>
  				</tr>
+
  				<tr>
- 					<td><span>Viola</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>* Special Order *</td>
+ 					<td><span>Springs</span></td>
+ 					<td>$7</td>
+ 					<td>$7</td>
+ 					<td>$7</td>
  				</tr>
+
  				<tr>
- 					<td><span>Cello</span></td>
+ 					<td><span>Pads (each)</span></td>
+ 					<td>$8</td>
+ 					<td>$8</td>
+ 					<td>$8</td>
+ 				</tr>
+
+ 				<tr>
+ 					<td><span>Crack Repair</span></td>
+ 					<td>$15</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+
+ 				<tr>
+ 					<td><span>Replace Broken Tenon</span></td>
+ 					<td>$55</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+
+ 				<tr>
+ 					<td><span>Silver Solder Keys</span></td>
+ 					<td>$30</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+
+ 				<tr>
+ 					<td><span>Plate Keys (add)</span></td>
+ 					<td>$120</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr>
+
+ 				<tr>
+ 					<td><span>Overhaul & Buff: Student</span></td>
+ 					<td>$205</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr> 	
+
+ 				<tr>
+ 					<td><span>Overhaul & Buff: Professional</span></td>
+ 					<td>$240</td>
+ 					<td>--</td>
+ 					<td>--</td>
+ 				</tr> 				
+ 			</tbody>
+ 		</table>
+
+
+ 		<table>
+ 			<thead>
+ 				<tr>
+ 					<th><span>Double Reeds</span></th>
+ 					<th>Oboe</th>
+ 					<th>Bassoon/Bass Clarinate</th>
+ 				</tr>
+ 			</thead>
+ 			<tbody>
+ 				<tr>
+ 					<td><span>Basic Adjust</span></td>
  					<td>$45</td>
- 					<td>$68</td>
- 					<td>* Special Order *</td>
+ 					<td>$45</td>
  				</tr>
  				<tr>
- 					<td><span>String Bass</span></td>
- 					<td>$60</td>
- 					<td> -- </td>
- 					<td>* Special Order *</td>
+ 					<td><span>Repads: Student</span></td>
+ 					<td>$130</td>
+ 					<td>$250</td>
  				</tr>
  				<tr>
- 					<td><span>Guitar</span></td>
- 					<td>$23</td>
- 					<td>$35</td>
- 					<td>* Special Order *</td>
+ 					<td><span>Professional</span></td>
+ 					<td>$220</td>
+ 					<td>$350</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Tenon Corks</span></td>
+ 					<td>$10</td>
+ 					<td>$20</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Cracks Per Pin</span></td>
+ 					<td>$20</td>
+ 					<td>--</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Springs</span></td>
+ 					<td>$7</td>
+ 					<td>$7</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Pads</span></td>
+ 					<td>$10</td>
+ 					<td>$10</td>
  				</tr>
  			</tbody>
  		</table>
@@ -369,241 +599,67 @@
  		<table>
  			<thead>
  				<tr>
- 					<th><span>Instrument</span></th>
- 					<th>Rental (Used)</th>
- 					<th>Rental (New)</th>
- 					<th>Lease (New)</th>
+ 					<th><span>Saxophones</span></th>
+ 					<th>Soprano</th>
+ 					<th>Alto</th>
+ 					<th>Tenor</th>
+ 					<th>Baritone</th>
  				</tr>
  			</thead>
  			<tbody>
  				<tr>
- 					<td><span>Oboe</span></td>
- 					<td>$40</td>
- 					<td>$70</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trumpet</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trumpet</span></td>
- 					<td>$26</td>
+ 					<td><span>Basic Adjust</span></td>
  					<td>$45</td>
- 					<td>$54 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trombone</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trombone</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$50 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>French Horn</span></td>
- 					<td>$55</td>
- 					<td>--</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Violin</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Viola</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Cello</span></td>
- 					<td>$45</td>
- 					<td>$68</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>String Bass</span></td>
- 					<td>$60</td>
- 					<td> -- </td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Guitar</span></td>
- 					<td>$23</td>
  					<td>$35</td>
- 					<td>* Special Order *</td>
+ 					<td>$40</td>
+ 					<td>$50</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Repads: Student</span></td>
+ 					<td>$285</td>
+ 					<td>$285</td>
+ 					<td>$350</td>
+ 					<td>Estimate</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Professional</span></td>
+ 					<td>$335</td>
+ 					<td>$385</td>
+ 					<td>$475</td>
+ 					<td>Estimate</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Overhaul (Lacquer)</span></td>
+ 					<td>$550</td>
+ 					<td>$585</td>
+ 					<td>$660</td>
+ 					<td>Estimate</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Mouthpiece Cork</span></td>
+ 					<td>$12</td>
+ 					<td>$12</td>
+ 					<td>$12</td>
+ 					<td>$12</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Pads (each)</span></td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 					<td>$10</td>
+ 				</tr>
+ 				<tr>
+ 					<td><span>Custom Resonators (add ea)</span></td>
+ 					<td>$2</td>
+ 					<td>$2</td>
+ 					<td>$2</td>
+ 					<td>$2</td>
  				</tr>
  			</tbody>
  		</table>
-
-
- 		<table>
- 			<thead>
- 				<tr>
- 					<th><span>Instrument</span></th>
- 					<th>Rental (Used)</th>
- 					<th>Rental (New)</th>
- 					<th>Lease (New)</th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Oboe</span></td>
- 					<td>$40</td>
- 					<td>$70</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trumpet</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trumpet</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$54 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trombone</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trombone</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$50 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>French Horn</span></td>
- 					<td>$55</td>
- 					<td>--</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Violin</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Viola</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Cello</span></td>
- 					<td>$45</td>
- 					<td>$68</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>String Bass</span></td>
- 					<td>$60</td>
- 					<td> -- </td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Guitar</span></td>
- 					<td>$23</td>
- 					<td>$35</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 			</tbody>
- 		</table>
-
-
- 		<table>
- 			<thead>
- 				<tr>
- 					<th><span>Instrument</span></th>
- 					<th>Rental (Used)</th>
- 					<th>Rental (New)</th>
- 					<th>Lease (New)</th>
- 				</tr>
- 			</thead>
- 			<tbody>
- 				<tr>
- 					<td><span>Oboe</span></td>
- 					<td>$40</td>
- 					<td>$70</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trumpet</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trumpet</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$54 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Trombone</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$43 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Silver Trombone</span></td>
- 					<td>$26</td>
- 					<td>$45</td>
- 					<td>$50 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>French Horn</span></td>
- 					<td>$55</td>
- 					<td>--</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Violin</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>$37 @ 24 Months</td>
- 				</tr>
- 				<tr>
- 					<td><span>Viola</span></td>
- 					<td>$21</td>
- 					<td>$32</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Cello</span></td>
- 					<td>$45</td>
- 					<td>$68</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>String Bass</span></td>
- 					<td>$60</td>
- 					<td> -- </td>
- 					<td>* Special Order *</td>
- 				</tr>
- 				<tr>
- 					<td><span>Guitar</span></td>
- 					<td>$23</td>
- 					<td>$35</td>
- 					<td>* Special Order *</td>
- 				</tr>
- 			</tbody>
- 		</table>
+ 		<p class="note">Repad: includes complete disassemble; clean all parts; replace all key corks (Neck corks on saxes); treat wooden instruments with oil; replace all pads; adjust and test; clean case and mouthpiece.</p>
+ 		<p class="note">Prices are for normal repair work.  Estimates must be given on specific work. Prices are subject to change without notice.</p>
 	</div>
 </div>
 
@@ -611,14 +667,14 @@
 <footer>
 	<div class="container">
 		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">Lessons</a></li>
-			<li><a href="#">Sunset Strings</a></li>
-			<li><a href="#">Preformances</a></li>
-			<li><a href="#">Rentals</a></li>
-			<li><a href="#">Repairs</a></li>
-			<li><a href="#">Contact Us</a></li>
-			<li><a href="#">About Us</a></li>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="lessons.php">Lessons</a></li>
+			<li><a href="sunset_strings.php">Sunset Strings</a></li>
+			<li><a href="performances.php">Performances</a></li>
+			<li><a href="rentals.php">Rentals</a></li>
+			<li><a href="repairs.php">Repairs</a></li>
+			<li><a href="contact.php">Contact Us</a></li>
+			<li><a href="about.php">About Us</a></li>
 		</ul>
 		<p>AFG Music &copy; Copyright <?php echo date("Y")?></p>
 	</div>
