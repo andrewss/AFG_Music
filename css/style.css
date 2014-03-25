@@ -858,14 +858,12 @@ p.note{
 		max-width: 100%;
 		display: block;
 	}
-	.services .single_service.repair .details_btn{
-		top: 350px;
+	.services .single_service{
+		margin-bottom: 100px
 	}
-	.services .single_service.rental{
-		margin-bottom: 40px
-	}
-	.services .single_service.rental .details_btn{
-		top: 400px;
+	.services .single_service .details_btn{
+		top: auto;
+		bottom: -60px;
 	}
 	.about_us img{
 		margin: 0 auto;
@@ -890,6 +888,15 @@ p.note{
 	}
 	nav ul.nav>li>a>.fa{
 		display: none;
+	}
+	.services .single_service ul.two_column li{
+		text-align: center;
+	}
+	.services .single_service ul.two_column{
+		margin-left: 0;
+	}
+	.services .single_service ul{
+		padding-bottom: 0;
 	}
 	/* Index Page CSS End*/
 
