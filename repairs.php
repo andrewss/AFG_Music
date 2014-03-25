@@ -144,7 +144,7 @@
  		<p class="note">Shop Adjust: Bridge, light clean, general adjustment, set sound post, adjust fine tuners, adjust tail gut.</p>
  		<p class="note">Labor includes parts fitted to instrument.</p>
  		<p class="note">Cracks and rib separations by estimate only.</p>
- 		<table>
+ 		<table class="shrink tiny">
  			<thead>
  				<tr>
  					<th><span>Brass Instruments</span></th>
@@ -612,7 +612,7 @@
  			</tbody>
  		</table>
 
- 		<table>
+ 		<table class="shrink">
  			<thead>
  				<tr>
  					<th><span>Saxophones</span></th>

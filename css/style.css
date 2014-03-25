@@ -1008,3 +1008,14 @@ p.note{
 	}
 }
 
+@media all and (max-device-width: 515px){
+	table.shrink tbody tr td,
+	table.shrink thead tr th{
+		font-size: 14px;
+	}
+	table.shrink.tiny tbody tr td,
+	table.shrink.tiny thead tr th{
+		font-size: 11px;
+	}
+
+}
